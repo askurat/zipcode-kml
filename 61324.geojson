@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.4123,
+                    41.7711
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.419283,
+                            41.772735
+                        ],
+                        [
+                            -89.411205,
+                            41.772671
+                        ],
+                        [
+                            -89.404812,
+                            41.767947
+                        ],
+                        [
+                            -89.419369,
+                            41.767407
+                        ],
+                        [
+                            -89.419283,
+                            41.772735
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "61324",
+                "county-code": "103",
+                "state": "IL",
+                "city": "Eldena"
+            }
+        }
+    ]
+}

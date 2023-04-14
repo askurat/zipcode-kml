@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -151.7358,
+                    68.1433
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -151.778747,
+                            68.150975
+                        ],
+                        [
+                            -151.710829,
+                            68.173246
+                        ],
+                        [
+                            -151.700721,
+                            68.168968
+                        ],
+                        [
+                            -151.653574,
+                            68.14899
+                        ],
+                        [
+                            -151.721477,
+                            68.126743
+                        ],
+                        [
+                            -151.778747,
+                            68.150975
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "99721",
+                "county-code": "185",
+                "state": "AK",
+                "city": "Anaktuvuk Pass"
+            }
+        }
+    ]
+}

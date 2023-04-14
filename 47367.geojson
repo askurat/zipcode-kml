@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.39,
+                    40.0792
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.394458,
+                            40.090983
+                        ],
+                        [
+                            -85.389769,
+                            40.090933
+                        ],
+                        [
+                            -85.389617,
+                            40.07643
+                        ],
+                        [
+                            -85.394453,
+                            40.076462
+                        ],
+                        [
+                            -85.394458,
+                            40.090983
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47367",
+                "county-code": "035",
+                "state": "IN",
+                "city": "Oakville"
+            }
+        }
+    ]
+}

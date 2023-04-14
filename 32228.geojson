@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.4369,
+                    30.3824
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.402736,
+                            30.393599
+                        ],
+                        [
+                            -81.398196,
+                            30.395017
+                        ],
+                        [
+                            -81.395056,
+                            30.395643
+                        ],
+                        [
+                            -81.398309,
+                            30.393033
+                        ],
+                        [
+                            -81.399102,
+                            30.387901
+                        ],
+                        [
+                            -81.402741,
+                            30.387901
+                        ],
+                        [
+                            -81.402736,
+                            30.393599
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "32228",
+                "county-code": "031",
+                "state": "FL",
+                "city": "Jacksonville"
+            }
+        }
+    ]
+}

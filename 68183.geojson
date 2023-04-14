@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9378,
+                    41.2586
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.941139,
+                            41.257622
+                        ],
+                        [
+                            -95.938491,
+                            41.257607
+                        ],
+                        [
+                            -95.938498,
+                            41.256554
+                        ],
+                        [
+                            -95.940958,
+                            41.25657
+                        ],
+                        [
+                            -95.941139,
+                            41.257622
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "68183",
+                "county-code": "055",
+                "state": "NE",
+                "city": "Omaha"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6008,
+                    34.0934
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.601715,
+                            34.09611
+                        ],
+                        [
+                            -87.597015,
+                            34.096104
+                        ],
+                        [
+                            -87.596397,
+                            34.087043
+                        ],
+                        [
+                            -87.601295,
+                            34.087889
+                        ],
+                        [
+                            -87.602418,
+                            34.090749
+                        ],
+                        [
+                            -87.601715,
+                            34.09611
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "35577",
+                "county-code": "133",
+                "state": "AL",
+                "city": "Natural Bridge"
+            }
+        }
+    ]
+}

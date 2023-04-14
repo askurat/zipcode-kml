@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1372,
+                    36.175
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -115.180444,
+                            36.108113
+                        ],
+                        [
+                            -115.176257,
+                            36.10918
+                        ],
+                        [
+                            -115.17345,
+                            36.109128
+                        ],
+                        [
+                            -115.173,
+                            36.108845
+                        ],
+                        [
+                            -115.172946,
+                            36.100838
+                        ],
+                        [
+                            -115.179398,
+                            36.100715
+                        ],
+                        [
+                            -115.180482,
+                            36.100698
+                        ],
+                        [
+                            -115.180444,
+                            36.108113
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "89158",
+                "county-code": "003",
+                "state": "NV",
+                "city": "Las Vegas"
+            }
+        }
+    ]
+}

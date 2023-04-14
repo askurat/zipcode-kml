@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.7951,
+                    34.1465
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.78623,
+                            34.138216
+                        ],
+                        [
+                            -91.782724,
+                            34.138302
+                        ],
+                        [
+                            -91.779628,
+                            34.13794
+                        ],
+                        [
+                            -91.774666,
+                            34.135286
+                        ],
+                        [
+                            -91.780077,
+                            34.13005
+                        ],
+                        [
+                            -91.786886,
+                            34.137559
+                        ],
+                        [
+                            -91.78623,
+                            34.138216
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "71659",
+                "county-code": "069",
+                "state": "AR",
+                "city": "Moscow"
+            }
+        }
+    ]
+}

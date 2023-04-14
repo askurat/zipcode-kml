@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.9039,
+                    38.9128
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.905234,
+                            38.913005
+                        ],
+                        [
+                            -86.904194,
+                            38.912997
+                        ],
+                        [
+                            -86.904211,
+                            38.910626
+                        ],
+                        [
+                            -86.905159,
+                            38.910612
+                        ],
+                        [
+                            -86.905234,
+                            38.913005
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47457",
+                "county-code": "055",
+                "state": "IN",
+                "city": "Scotland"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.3193,
+                    43.649
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -72.345635,
+                            43.651678
+                        ],
+                        [
+                            -72.343854,
+                            43.649559
+                        ],
+                        [
+                            -72.343445,
+                            43.648031
+                        ],
+                        [
+                            -72.341887,
+                            43.647544
+                        ],
+                        [
+                            -72.341902,
+                            43.645626
+                        ],
+                        [
+                            -72.345221,
+                            43.645743
+                        ],
+                        [
+                            -72.345162,
+                            43.648554
+                        ],
+                        [
+                            -72.345635,
+                            43.651678
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "05009",
+                "county-code": "027",
+                "state": "VT",
+                "city": "White River Junction"
+            }
+        }
+    ]
+}

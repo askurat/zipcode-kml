@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.9609,
+                    21.4061
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -157.891479,
+                            21.360223
+                        ],
+                        [
+                            -157.890131,
+                            21.361796
+                        ],
+                        [
+                            -157.888049,
+                            21.359936
+                        ],
+                        [
+                            -157.889436,
+                            21.35804
+                        ],
+                        [
+                            -157.890885,
+                            21.35886
+                        ],
+                        [
+                            -157.891479,
+                            21.360223
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "96859",
+                "county-code": "003",
+                "state": "HI",
+                "city": "Tripler Army Medical Center"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5838,
+                    47.8543
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.589039,
+                            47.855426
+                        ],
+                        [
+                            -122.584046,
+                            47.856044
+                        ],
+                        [
+                            -122.584418,
+                            47.851231
+                        ],
+                        [
+                            -122.585239,
+                            47.854222
+                        ],
+                        [
+                            -122.589002,
+                            47.853243
+                        ],
+                        [
+                            -122.589039,
+                            47.855426
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "98364",
+                "county-code": "035",
+                "state": "WA",
+                "city": "Port Gamble"
+            }
+        }
+    ]
+}

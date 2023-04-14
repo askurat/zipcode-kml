@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.601,
+                    31.9605
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.605016,
+                            31.962443
+                        ],
+                        [
+                            -83.601765,
+                            31.963045
+                        ],
+                        [
+                            -83.601445,
+                            31.96125
+                        ],
+                        [
+                            -83.59985,
+                            31.960579
+                        ],
+                        [
+                            -83.603366,
+                            31.960142
+                        ],
+                        [
+                            -83.604514,
+                            31.961293
+                        ],
+                        [
+                            -83.605016,
+                            31.962443
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "31084",
+                "county-code": "315",
+                "state": "GA",
+                "city": "Seville"
+            }
+        }
+    ]
+}

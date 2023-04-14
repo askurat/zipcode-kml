@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.43,
+                    39.7437
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.431055,
+                            39.744404
+                        ],
+                        [
+                            -85.427511,
+                            39.744373
+                        ],
+                        [
+                            -85.428586,
+                            39.743477
+                        ],
+                        [
+                            -85.428574,
+                            39.742571
+                        ],
+                        [
+                            -85.431044,
+                            39.742592
+                        ],
+                        [
+                            -85.431055,
+                            39.744404
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46155",
+                "county-code": "139",
+                "state": "IN",
+                "city": "Mays"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.0804,
+                    30.5159
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.188371,
+                            30.452486
+                        ],
+                        [
+                            -91.187178,
+                            30.452523
+                        ],
+                        [
+                            -91.187136,
+                            30.451459
+                        ],
+                        [
+                            -91.188343,
+                            30.451424
+                        ],
+                        [
+                            -91.188371,
+                            30.452486
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "70825",
+                "county-code": "033",
+                "state": "LA",
+                "city": "Baton Rouge"
+            }
+        }
+    ]
+}

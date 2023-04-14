@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.7163,
+                    35.9879
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.71894,
+                            35.988789
+                        ],
+                        [
+                            -92.719952,
+                            35.990366
+                        ],
+                        [
+                            -92.718484,
+                            35.994727
+                        ],
+                        [
+                            -92.713138,
+                            35.994643
+                        ],
+                        [
+                            -92.713153,
+                            35.990592
+                        ],
+                        [
+                            -92.715938,
+                            35.987386
+                        ],
+                        [
+                            -92.720467,
+                            35.987427
+                        ],
+                        [
+                            -92.71894,
+                            35.988789
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "72636",
+                "county-code": "129",
+                "state": "AR",
+                "city": "Gilbert"
+            }
+        }
+    ]
+}

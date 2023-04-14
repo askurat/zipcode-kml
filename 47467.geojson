@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3428,
+                    38.7687
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.345148,
+                            38.768927
+                        ],
+                        [
+                            -86.343886,
+                            38.768933
+                        ],
+                        [
+                            -86.343881,
+                            38.76794
+                        ],
+                        [
+                            -86.342586,
+                            38.766956
+                        ],
+                        [
+                            -86.34632,
+                            38.766971
+                        ],
+                        [
+                            -86.345148,
+                            38.768927
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47467",
+                "county-code": "093",
+                "state": "IN",
+                "city": "Tunnelton"
+            }
+        }
+    ]
+}

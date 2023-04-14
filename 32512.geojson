@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.2991,
+                    30.3943
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.30124,
+                            30.396999
+                        ],
+                        [
+                            -87.301077,
+                            30.401147
+                        ],
+                        [
+                            -87.297313,
+                            30.401115
+                        ],
+                        [
+                            -87.297381,
+                            30.396842
+                        ],
+                        [
+                            -87.300046,
+                            30.396882
+                        ],
+                        [
+                            -87.301101,
+                            30.396982
+                        ],
+                        [
+                            -87.30124,
+                            30.396999
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "32512",
+                "county-code": "033",
+                "state": "FL",
+                "city": "Pensacola"
+            }
+        }
+    ]
+}

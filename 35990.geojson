@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3064,
+                    34.0657
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.310656,
+                            34.068557
+                        ],
+                        [
+                            -86.301848,
+                            34.067216
+                        ],
+                        [
+                            -86.30183,
+                            34.065354
+                        ],
+                        [
+                            -86.304493,
+                            34.065174
+                        ],
+                        [
+                            -86.305207,
+                            34.065327
+                        ],
+                        [
+                            -86.310656,
+                            34.068557
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "35990",
+                "county-code": "055",
+                "state": "AL",
+                "city": "Walnut Grove"
+            }
+        }
+    ]
+}

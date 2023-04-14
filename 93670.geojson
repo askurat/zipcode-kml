@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2594,
+                    36.4718
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -119.259034,
+                            36.486331
+                        ],
+                        [
+                            -119.250449,
+                            36.486278
+                        ],
+                        [
+                            -119.250096,
+                            36.486274
+                        ],
+                        [
+                            -119.250083,
+                            36.484261
+                        ],
+                        [
+                            -119.252407,
+                            36.485239
+                        ],
+                        [
+                            -119.259046,
+                            36.484959
+                        ],
+                        [
+                            -119.259034,
+                            36.486331
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "93670",
+                "county-code": "107",
+                "state": "CA",
+                "city": "Yettem"
+            }
+        }
+    ]
+}

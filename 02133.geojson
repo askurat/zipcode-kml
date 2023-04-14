@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0598,
+                    42.3584
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.065081,
+                            42.358381
+                        ],
+                        [
+                            -71.064394,
+                            42.358457
+                        ],
+                        [
+                            -71.064369,
+                            42.359379
+                        ],
+                        [
+                            -71.062875,
+                            42.359483
+                        ],
+                        [
+                            -71.062642,
+                            42.357977
+                        ],
+                        [
+                            -71.063169,
+                            42.357748
+                        ],
+                        [
+                            -71.06499,
+                            42.357195
+                        ],
+                        [
+                            -71.065081,
+                            42.358381
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "02133",
+                "county-code": "025",
+                "state": "MA",
+                "city": "Boston"
+            }
+        }
+    ]
+}

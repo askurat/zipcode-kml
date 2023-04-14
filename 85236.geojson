@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6969,
+                    33.3024
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.721196,
+                            33.325001
+                        ],
+                        [
+                            -111.719788,
+                            33.325067
+                        ],
+                        [
+                            -111.718519,
+                            33.32436
+                        ],
+                        [
+                            -111.716903,
+                            33.321438
+                        ],
+                        [
+                            -111.717705,
+                            33.321429
+                        ],
+                        [
+                            -111.721191,
+                            33.321422
+                        ],
+                        [
+                            -111.721196,
+                            33.325001
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "85236",
+                "county-code": "013",
+                "state": "AZ",
+                "city": "Higley"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.1117,
+                    36.1354
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.124678,
+                            36.102827
+                        ],
+                        [
+                            -89.123742,
+                            36.104203
+                        ],
+                        [
+                            -89.120788,
+                            36.105212
+                        ],
+                        [
+                            -89.120472,
+                            36.107095
+                        ],
+                        [
+                            -89.118434,
+                            36.107192
+                        ],
+                        [
+                            -89.119653,
+                            36.099826
+                        ],
+                        [
+                            -89.125254,
+                            36.101334
+                        ],
+                        [
+                            -89.124678,
+                            36.102827
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "38389",
+                "county-code": "053",
+                "state": "TN",
+                "city": "Yorkville"
+            }
+        }
+    ]
+}

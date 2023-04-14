@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9192,
+                    30.4741
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.91811,
+                            30.472342
+                        ],
+                        [
+                            -87.912509,
+                            30.472324
+                        ],
+                        [
+                            -87.911251,
+                            30.472324
+                        ],
+                        [
+                            -87.911995,
+                            30.467109
+                        ],
+                        [
+                            -87.917304,
+                            30.467097
+                        ],
+                        [
+                            -87.91811,
+                            30.472342
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "36564",
+                "county-code": "003",
+                "state": "AL",
+                "city": "Point Clear"
+            }
+        }
+    ]
+}

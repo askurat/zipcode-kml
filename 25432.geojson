@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7858,
+                    39.294
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.787869,
+                            39.298483
+                        ],
+                        [
+                            -77.784402,
+                            39.295273
+                        ],
+                        [
+                            -77.783226,
+                            39.297375
+                        ],
+                        [
+                            -77.783019,
+                            39.29584
+                        ],
+                        [
+                            -77.784086,
+                            39.294444
+                        ],
+                        [
+                            -77.786082,
+                            39.293748
+                        ],
+                        [
+                            -77.789666,
+                            39.294453
+                        ],
+                        [
+                            -77.787869,
+                            39.298483
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "25432",
+                "county-code": "037",
+                "state": "WV",
+                "city": "Millville"
+            }
+        }
+    ]
+}

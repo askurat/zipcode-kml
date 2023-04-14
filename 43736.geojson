@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2558,
+                    40.065
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.240512,
+                            40.060416
+                        ],
+                        [
+                            -81.23846,
+                            40.05819
+                        ],
+                        [
+                            -81.23541,
+                            40.05703
+                        ],
+                        [
+                            -81.2301,
+                            40.056151
+                        ],
+                        [
+                            -81.230125,
+                            40.055459
+                        ],
+                        [
+                            -81.2372,
+                            40.05719
+                        ],
+                        [
+                            -81.240507,
+                            40.057433
+                        ],
+                        [
+                            -81.240512,
+                            40.060416
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "43736",
+                "county-code": "059",
+                "state": "OH",
+                "city": "Fairview"
+            }
+        }
+    ]
+}

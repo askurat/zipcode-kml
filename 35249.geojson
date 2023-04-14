@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8025,
+                    33.5207
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.804257,
+                            33.506808
+                        ],
+                        [
+                            -86.802839,
+                            33.507482
+                        ],
+                        [
+                            -86.802058,
+                            33.506337
+                        ],
+                        [
+                            -86.803485,
+                            33.505665
+                        ],
+                        [
+                            -86.804257,
+                            33.506808
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "35249",
+                "county-code": "073",
+                "state": "AL",
+                "city": "Birmingham"
+            }
+        }
+    ]
+}

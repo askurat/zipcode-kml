@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.9112,
+                    42.6626
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.912092,
+                            42.663486
+                        ],
+                        [
+                            -92.907723,
+                            42.663472
+                        ],
+                        [
+                            -92.907735,
+                            42.661425
+                        ],
+                        [
+                            -92.911328,
+                            42.661436
+                        ],
+                        [
+                            -92.912092,
+                            42.663486
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50649",
+                "county-code": "023",
+                "state": "IA",
+                "city": "Kesley"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.4436,
+                    39.8778
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.522871,
+                            39.715112
+                        ],
+                        [
+                            -87.521605,
+                            39.715124
+                        ],
+                        [
+                            -87.521581,
+                            39.713837
+                        ],
+                        [
+                            -87.522602,
+                            39.713789
+                        ],
+                        [
+                            -87.5228,
+                            39.713797
+                        ],
+                        [
+                            -87.522871,
+                            39.715112
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47875",
+                "county-code": "165",
+                "state": "IN",
+                "city": "Saint Bernice"
+            }
+        }
+    ]
+}

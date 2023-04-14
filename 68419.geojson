@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.5129,
+                    40.5998
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.521052,
+                            40.610406
+                        ],
+                        [
+                            -96.501996,
+                            40.610181
+                        ],
+                        [
+                            -96.501636,
+                            40.595575
+                        ],
+                        [
+                            -96.506192,
+                            40.5956
+                        ],
+                        [
+                            -96.51592,
+                            40.595651
+                        ],
+                        [
+                            -96.520573,
+                            40.595676
+                        ],
+                        [
+                            -96.520652,
+                            40.602902
+                        ],
+                        [
+                            -96.521052,
+                            40.610406
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "68419",
+                "county-code": "109",
+                "state": "NE",
+                "city": "Panama"
+            }
+        }
+    ]
+}

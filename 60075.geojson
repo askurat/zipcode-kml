@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9126,
+                    42.4906
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.9174576904688,
+                            42.494145380802
+                        ],
+                        [
+                            -87.9028613737032,
+                            42.4939441941681
+                        ],
+                        [
+                            -87.902867,
+                            42.493536
+                        ],
+                        [
+                            -87.909137,
+                            42.490753
+                        ],
+                        [
+                            -87.919536,
+                            42.49048
+                        ],
+                        [
+                            -87.9174576904688,
+                            42.494145380802
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "60075",
+                "county-code": "097",
+                "state": "IL",
+                "city": "Russell"
+            }
+        }
+    ]
+}

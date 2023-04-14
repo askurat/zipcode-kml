@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6918,
+                    36.7504
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.701091,
+                            36.757352
+                        ],
+                        [
+                            -89.690225,
+                            36.757666
+                        ],
+                        [
+                            -89.683331,
+                            36.757781
+                        ],
+                        [
+                            -89.682996,
+                            36.750705
+                        ],
+                        [
+                            -89.682729,
+                            36.743343
+                        ],
+                        [
+                            -89.700145,
+                            36.742915
+                        ],
+                        [
+                            -89.701091,
+                            36.757352
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "63828",
+                "county-code": "143",
+                "state": "MO",
+                "city": "Canalou"
+            }
+        }
+    ]
+}

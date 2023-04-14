@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1066,
+                    46.7833
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.201144,
+                            46.836564
+                        ],
+                        [
+                            -92.195921,
+                            46.836563
+                        ],
+                        [
+                            -92.191876,
+                            46.836566
+                        ],
+                        [
+                            -92.192101,
+                            46.8348
+                        ],
+                        [
+                            -92.195888,
+                            46.834735
+                        ],
+                        [
+                            -92.195863,
+                            46.833349
+                        ],
+                        [
+                            -92.201165,
+                            46.833455
+                        ],
+                        [
+                            -92.201144,
+                            46.836564
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "55814",
+                "county-code": "137",
+                "state": "MN",
+                "city": "Duluth"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9881,
+                    32.1129
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.990012,
+                            32.115358
+                        ],
+                        [
+                            -87.988357,
+                            32.117068
+                        ],
+                        [
+                            -87.981906,
+                            32.117601
+                        ],
+                        [
+                            -87.981316,
+                            32.113045
+                        ],
+                        [
+                            -87.98224,
+                            32.113099
+                        ],
+                        [
+                            -87.987853,
+                            32.112952
+                        ],
+                        [
+                            -87.989352,
+                            32.114787
+                        ],
+                        [
+                            -87.990012,
+                            32.115358
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "36764",
+                "county-code": "091",
+                "state": "AL",
+                "city": "Nanafalia"
+            }
+        }
+    ]
+}

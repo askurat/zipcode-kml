@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.244,
+                    43.4599
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -116.207904,
+                            43.607764
+                        ],
+                        [
+                            -116.204223,
+                            43.605222
+                        ],
+                        [
+                            -116.201475,
+                            43.604751
+                        ],
+                        [
+                            -116.202982,
+                            43.602349
+                        ],
+                        [
+                            -116.207028,
+                            43.603862
+                        ],
+                        [
+                            -116.209483,
+                            43.604972
+                        ],
+                        [
+                            -116.207904,
+                            43.607764
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "83725",
+                "county-code": "001",
+                "state": "ID",
+                "city": "Boise"
+            }
+        }
+    ]
+}

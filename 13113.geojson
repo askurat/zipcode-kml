@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5369,
+                    43.1656
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.536981,
+                            43.165736
+                        ],
+                        [
+                            -76.531551,
+                            43.164774
+                        ],
+                        [
+                            -76.531321,
+                            43.164277
+                        ],
+                        [
+                            -76.533361,
+                            43.164201
+                        ],
+                        [
+                            -76.533565,
+                            43.162973
+                        ],
+                        [
+                            -76.536846,
+                            43.162888
+                        ],
+                        [
+                            -76.536981,
+                            43.165736
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "13113",
+                "county-code": "011",
+                "state": "NY",
+                "city": "Meridian"
+            }
+        }
+    ]
+}

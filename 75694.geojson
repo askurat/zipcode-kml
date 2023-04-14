@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.3427,
+                    32.6537
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.347128,
+                            32.641055
+                        ],
+                        [
+                            -94.344425,
+                            32.640778
+                        ],
+                        [
+                            -94.343899,
+                            32.640179
+                        ],
+                        [
+                            -94.342296,
+                            32.640124
+                        ],
+                        [
+                            -94.343278,
+                            32.63497
+                        ],
+                        [
+                            -94.343596,
+                            32.633757
+                        ],
+                        [
+                            -94.346493,
+                            32.639294
+                        ],
+                        [
+                            -94.347128,
+                            32.641055
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "75694",
+                "county-code": "203",
+                "state": "TX",
+                "city": "Woodlawn"
+            }
+        }
+    ]
+}

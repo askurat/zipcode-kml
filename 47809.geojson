@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.4111,
+                    39.471
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.412663,
+                            39.475282
+                        ],
+                        [
+                            -87.407096,
+                            39.475133
+                        ],
+                        [
+                            -87.407089,
+                            39.474128
+                        ],
+                        [
+                            -87.40704,
+                            39.467517
+                        ],
+                        [
+                            -87.412596,
+                            39.4675
+                        ],
+                        [
+                            -87.412663,
+                            39.475282
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47809",
+                "county-code": "167",
+                "state": "IN",
+                "city": "Terre Haute"
+            }
+        }
+    ]
+}

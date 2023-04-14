@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.6534,
+                    39.7989
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.657354,
+                            39.799592
+                        ],
+                        [
+                            -89.654891,
+                            39.799549
+                        ],
+                        [
+                            -89.653351,
+                            39.799522
+                        ],
+                        [
+                            -89.653437,
+                            39.796183
+                        ],
+                        [
+                            -89.657454,
+                            39.796254
+                        ],
+                        [
+                            -89.657354,
+                            39.799592
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "62706",
+                "county-code": "167",
+                "state": "IL",
+                "city": "Springfield"
+            }
+        }
+    ]
+}

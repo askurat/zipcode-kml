@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0271,
+                    46.7423
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -123.030189,
+                            46.741649
+                        ],
+                        [
+                            -123.027111,
+                            46.742593
+                        ],
+                        [
+                            -123.022138,
+                            46.736258
+                        ],
+                        [
+                            -123.0258,
+                            46.736455
+                        ],
+                        [
+                            -123.025297,
+                            46.737891
+                        ],
+                        [
+                            -123.030101,
+                            46.736495
+                        ],
+                        [
+                            -123.030189,
+                            46.741649
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "98544",
+                "county-code": "041",
+                "state": "WA",
+                "city": "Galvin"
+            }
+        }
+    ]
+}

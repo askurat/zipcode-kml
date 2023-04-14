@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.7054,
+                    40.4824
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -104.699772,
+                            40.480979
+                        ],
+                        [
+                            -104.696795,
+                            40.480979
+                        ],
+                        [
+                            -104.69674,
+                            40.470957
+                        ],
+                        [
+                            -104.695889,
+                            40.466425
+                        ],
+                        [
+                            -104.696813,
+                            40.46647
+                        ],
+                        [
+                            -104.699202,
+                            40.47901
+                        ],
+                        [
+                            -104.699772,
+                            40.480979
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "80646",
+                "county-code": "123",
+                "state": "CO",
+                "city": "Lucerne"
+            }
+        }
+    ]
+}

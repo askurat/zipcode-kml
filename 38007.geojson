@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.4384,
+                    36.164
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.440784,
+                            36.168452
+                        ],
+                        [
+                            -89.439534,
+                            36.166461
+                        ],
+                        [
+                            -89.438083,
+                            36.163167
+                        ],
+                        [
+                            -89.434706,
+                            36.16291
+                        ],
+                        [
+                            -89.434803,
+                            36.162189
+                        ],
+                        [
+                            -89.437775,
+                            36.162295
+                        ],
+                        [
+                            -89.441299,
+                            36.162704
+                        ],
+                        [
+                            -89.440784,
+                            36.168452
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "38007",
+                "county-code": "045",
+                "state": "TN",
+                "city": "Bogota"
+            }
+        }
+    ]
+}

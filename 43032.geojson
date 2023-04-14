@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9588,
+                    40.3286
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.958413,
+                            40.330106
+                        ],
+                        [
+                            -82.957074,
+                            40.330897
+                        ],
+                        [
+                            -82.957237,
+                            40.330058
+                        ],
+                        [
+                            -82.957925,
+                            40.326203
+                        ],
+                        [
+                            -82.959138,
+                            40.32627
+                        ],
+                        [
+                            -82.958413,
+                            40.330106
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "43032",
+                "county-code": "041",
+                "state": "OH",
+                "city": "Kilbourne"
+            }
+        }
+    ]
+}

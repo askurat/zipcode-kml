@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.9682,
+                    41.889
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.965196,
+                            41.887336
+                        ],
+                        [
+                            -71.962081,
+                            41.887601
+                        ],
+                        [
+                            -71.961892,
+                            41.883539
+                        ],
+                        [
+                            -71.964143,
+                            41.883384
+                        ],
+                        [
+                            -71.965397,
+                            41.885261
+                        ],
+                        [
+                            -71.965196,
+                            41.887336
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "06258",
+                "county-code": "015",
+                "state": "CT",
+                "city": "Pomfret"
+            }
+        }
+    ]
+}

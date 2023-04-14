@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7206,
+                    39.5638
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.721756,
+                            39.569415
+                        ],
+                        [
+                            -77.708998,
+                            39.568716
+                        ],
+                        [
+                            -77.708594,
+                            39.565133
+                        ],
+                        [
+                            -77.70838,
+                            39.56182
+                        ],
+                        [
+                            -77.71073,
+                            39.56196
+                        ],
+                        [
+                            -77.71828,
+                            39.56333
+                        ],
+                        [
+                            -77.71835,
+                            39.564212
+                        ],
+                        [
+                            -77.721756,
+                            39.569415
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "21746",
+                "county-code": "043",
+                "state": "MD",
+                "city": "Hagerstown"
+            }
+        }
+    ]
+}

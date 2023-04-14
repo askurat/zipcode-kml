@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0146,
+                    38.8933
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.023975,
+                            38.893877
+                        ],
+                        [
+                            -77.021919,
+                            38.893295
+                        ],
+                        [
+                            -77.0219,
+                            38.892078
+                        ],
+                        [
+                            -77.023962,
+                            38.892079
+                        ],
+                        [
+                            -77.023975,
+                            38.893877
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "20408",
+                "county-code": "001",
+                "state": "DC",
+                "city": "Washington"
+            }
+        }
+    ]
+}

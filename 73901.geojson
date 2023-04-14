@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.078,
+                    36.755
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -101.079726,
+                            36.761868
+                        ],
+                        [
+                            -101.070735,
+                            36.761865
+                        ],
+                        [
+                            -101.070516,
+                            36.747334
+                        ],
+                        [
+                            -101.079688,
+                            36.747349
+                        ],
+                        [
+                            -101.079726,
+                            36.761868
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "73901",
+                "county-code": "139",
+                "state": "OK",
+                "city": "Adams"
+            }
+        }
+    ]
+}

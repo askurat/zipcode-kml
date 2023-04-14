@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.7712,
+                    35.3245
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.77308,
+                            35.31725
+                        ],
+                        [
+                            -90.772005,
+                            35.317277
+                        ],
+                        [
+                            -90.77285,
+                            35.313522
+                        ],
+                        [
+                            -90.77318,
+                            35.31353
+                        ],
+                        [
+                            -90.77308,
+                            35.31725
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "72387",
+                "county-code": "037",
+                "state": "AR",
+                "city": "Vanndale"
+            }
+        }
+    ]
+}

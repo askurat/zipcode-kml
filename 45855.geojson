@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5841,
+                    41.0879
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.588275,
+                            41.091567
+                        ],
+                        [
+                            -84.578251,
+                            41.091631
+                        ],
+                        [
+                            -84.578137,
+                            41.086157
+                        ],
+                        [
+                            -84.581636,
+                            41.086013
+                        ],
+                        [
+                            -84.581622,
+                            41.084276
+                        ],
+                        [
+                            -84.588117,
+                            41.08424
+                        ],
+                        [
+                            -84.588275,
+                            41.091567
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45855",
+                "county-code": "125",
+                "state": "OH",
+                "city": "Latty"
+            }
+        }
+    ]
+}

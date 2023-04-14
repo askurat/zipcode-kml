@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.4759,
+                    39.3712
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.473719,
+                            39.37073
+                        ],
+                        [
+                            -87.472901,
+                            39.370354
+                        ],
+                        [
+                            -87.472846,
+                            39.370279
+                        ],
+                        [
+                            -87.473302,
+                            39.369576
+                        ],
+                        [
+                            -87.474249,
+                            39.370013
+                        ],
+                        [
+                            -87.473719,
+                            39.37073
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47870",
+                "county-code": "167",
+                "state": "IN",
+                "city": "Prairieton"
+            }
+        }
+    ]
+}

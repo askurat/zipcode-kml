@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.102,
+                    29.6663
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.107003,
+                            29.669467
+                        ],
+                        [
+                            -91.106794,
+                            29.671035
+                        ],
+                        [
+                            -91.101469,
+                            29.670741
+                        ],
+                        [
+                            -91.101655,
+                            29.668525
+                        ],
+                        [
+                            -91.107359,
+                            29.668713
+                        ],
+                        [
+                            -91.107003,
+                            29.669467
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "70340",
+                "county-code": "101",
+                "state": "LA",
+                "city": "Amelia"
+            }
+        }
+    ]
+}

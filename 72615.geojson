@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.0321,
+                    36.3083
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.014227,
+                            36.314935
+                        ],
+                        [
+                            -93.014873,
+                            36.317849
+                        ],
+                        [
+                            -93.010553,
+                            36.317611
+                        ],
+                        [
+                            -93.007865,
+                            36.315733
+                        ],
+                        [
+                            -93.010772,
+                            36.314047
+                        ],
+                        [
+                            -93.010781,
+                            36.312624
+                        ],
+                        [
+                            -93.015088,
+                            36.312702
+                        ],
+                        [
+                            -93.014227,
+                            36.314935
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "72615",
+                "county-code": "009",
+                "state": "AR",
+                "city": "Bergman"
+            }
+        }
+    ]
+}

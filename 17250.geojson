@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5247,
+                    39.7364
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.525019,
+                            39.737172
+                        ],
+                        [
+                            -77.524678,
+                            39.738215
+                        ],
+                        [
+                            -77.524114,
+                            39.738217
+                        ],
+                        [
+                            -77.524233,
+                            39.737649
+                        ],
+                        [
+                            -77.51975,
+                            39.73565
+                        ],
+                        [
+                            -77.525515,
+                            39.73631
+                        ],
+                        [
+                            -77.525019,
+                            39.737172
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "17250",
+                "county-code": "055",
+                "state": "PA",
+                "city": "Rouzerville"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.4616,
+                    41.0398
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.466457,
+                            41.044098
+                        ],
+                        [
+                            -94.464353,
+                            41.044781
+                        ],
+                        [
+                            -94.463938,
+                            41.043525
+                        ],
+                        [
+                            -94.462249,
+                            41.043397
+                        ],
+                        [
+                            -94.456933,
+                            41.043367
+                        ],
+                        [
+                            -94.456869,
+                            41.036108
+                        ],
+                        [
+                            -94.466468,
+                            41.036187
+                        ],
+                        [
+                            -94.466457,
+                            41.044098
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50842",
+                "county-code": "175",
+                "state": "IA",
+                "city": "Cromwell"
+            }
+        }
+    ]
+}

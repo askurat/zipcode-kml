@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.592,
+                    40.8133
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.592207,
+                            40.81275
+                        ],
+                        [
+                            -75.590176,
+                            40.811252
+                        ],
+                        [
+                            -75.591908,
+                            40.810006
+                        ],
+                        [
+                            -75.592199,
+                            40.810747
+                        ],
+                        [
+                            -75.592501,
+                            40.811324
+                        ],
+                        [
+                            -75.592207,
+                            40.81275
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "18012",
+                "county-code": "025",
+                "state": "PA",
+                "city": "Aquashicola"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2318,
+                    26.1342
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.257162,
+                            26.120756
+                        ],
+                        [
+                            -80.25238,
+                            26.12074
+                        ],
+                        [
+                            -80.250805,
+                            26.115891
+                        ],
+                        [
+                            -80.250368,
+                            26.113608
+                        ],
+                        [
+                            -80.255426,
+                            26.113581
+                        ],
+                        [
+                            -80.255454,
+                            26.114905
+                        ],
+                        [
+                            -80.257464,
+                            26.115718
+                        ],
+                        [
+                            -80.257162,
+                            26.120756
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "33388",
+                "county-code": "011",
+                "state": "FL",
+                "city": "Plantation"
+            }
+        }
+    ]
+}

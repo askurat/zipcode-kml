@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1504,
+                    38.9703
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.149198,
+                            38.969977
+                        ],
+                        [
+                            -85.149174,
+                            38.970708
+                        ],
+                        [
+                            -85.147935,
+                            38.970723
+                        ],
+                        [
+                            -85.14792,
+                            38.96957
+                        ],
+                        [
+                            -85.149189,
+                            38.96959
+                        ],
+                        [
+                            -85.149198,
+                            38.969977
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47021",
+                "county-code": "137",
+                "state": "IN",
+                "city": "Friendship"
+            }
+        }
+    ]
+}

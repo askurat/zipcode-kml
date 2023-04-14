@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1845,
+                    37.1595
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -88.186635,
+                            37.160363
+                        ],
+                        [
+                            -88.181799,
+                            37.160181
+                        ],
+                        [
+                            -88.184018,
+                            37.157321
+                        ],
+                        [
+                            -88.181436,
+                            37.155123
+                        ],
+                        [
+                            -88.18579,
+                            37.156817
+                        ],
+                        [
+                            -88.186635,
+                            37.160363
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "42037",
+                "county-code": "055",
+                "state": "KY",
+                "city": "Dycusburg"
+            }
+        }
+    ]
+}

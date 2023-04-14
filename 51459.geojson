@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.6321,
+                    42.0414
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.648452,
+                            42.049171
+                        ],
+                        [
+                            -94.629098,
+                            42.049032
+                        ],
+                        [
+                            -94.629116,
+                            42.038536
+                        ],
+                        [
+                            -94.64848,
+                            42.043612
+                        ],
+                        [
+                            -94.648452,
+                            42.049171
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "51459",
+                "county-code": "027",
+                "state": "IA",
+                "city": "Ralston"
+            }
+        }
+    ]
+}

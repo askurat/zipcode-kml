@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.8511,
+                    33.5922
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -101.843195,
+                            33.581696
+                        ],
+                        [
+                            -101.840875,
+                            33.581706
+                        ],
+                        [
+                            -101.840796,
+                            33.580784
+                        ],
+                        [
+                            -101.843189,
+                            33.580777
+                        ],
+                        [
+                            -101.843195,
+                            33.581696
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "79402",
+                "county-code": "303",
+                "state": "TX",
+                "city": "Lubbock"
+            }
+        }
+    ]
+}

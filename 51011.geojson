@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.5145,
+                    42.9163
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.519468,
+                            42.91627
+                        ],
+                        [
+                            -96.516454,
+                            42.91625
+                        ],
+                        [
+                            -96.516128,
+                            42.923498
+                        ],
+                        [
+                            -96.509474,
+                            42.923529
+                        ],
+                        [
+                            -96.509695,
+                            42.909036
+                        ],
+                        [
+                            -96.51952,
+                            42.909132
+                        ],
+                        [
+                            -96.519468,
+                            42.91627
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "51011",
+                "county-code": "167",
+                "state": "IA",
+                "city": "Chatsworth"
+            }
+        }
+    ]
+}

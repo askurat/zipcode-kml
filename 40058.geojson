@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1242,
+                    38.4941
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.171917,
+                            38.433455
+                        ],
+                        [
+                            -85.169949,
+                            38.433307
+                        ],
+                        [
+                            -85.168015,
+                            38.433142
+                        ],
+                        [
+                            -85.168057,
+                            38.431841
+                        ],
+                        [
+                            -85.170116,
+                            38.432001
+                        ],
+                        [
+                            -85.172097,
+                            38.432176
+                        ],
+                        [
+                            -85.171917,
+                            38.433455
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "40058",
+                "county-code": "103",
+                "state": "KY",
+                "city": "Port Royal"
+            }
+        }
+    ]
+}

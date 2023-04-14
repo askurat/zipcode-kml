@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.1778,
+                    41.2567
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.19227,
+                            41.25779
+                        ],
+                        [
+                            -89.187365,
+                            41.257811
+                        ],
+                        [
+                            -89.182478,
+                            41.257832
+                        ],
+                        [
+                            -89.172747,
+                            41.258243
+                        ],
+                        [
+                            -89.17269,
+                            41.250933
+                        ],
+                        [
+                            -89.182407,
+                            41.250478
+                        ],
+                        [
+                            -89.192184,
+                            41.250435
+                        ],
+                        [
+                            -89.19227,
+                            41.25779
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "61363",
+                "county-code": "155",
+                "state": "IL",
+                "city": "Standard"
+            }
+        }
+    ]
+}

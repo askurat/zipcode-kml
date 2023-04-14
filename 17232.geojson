@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6405,
+                    40.1055
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.63437,
+                            40.096561
+                        ],
+                        [
+                            -77.631232,
+                            40.094073
+                        ],
+                        [
+                            -77.631457,
+                            40.093575
+                        ],
+                        [
+                            -77.635056,
+                            40.093661
+                        ],
+                        [
+                            -77.63437,
+                            40.096561
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "17232",
+                "county-code": "055",
+                "state": "PA",
+                "city": "Lurgan"
+            }
+        }
+    ]
+}

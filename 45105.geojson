@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.6126,
+                    38.7498
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.613524,
+                            38.750526
+                        ],
+                        [
+                            -83.611544,
+                            38.751451
+                        ],
+                        [
+                            -83.612086,
+                            38.750768
+                        ],
+                        [
+                            -83.611242,
+                            38.750339
+                        ],
+                        [
+                            -83.612314,
+                            38.748995
+                        ],
+                        [
+                            -83.613237,
+                            38.749396
+                        ],
+                        [
+                            -83.612681,
+                            38.750053
+                        ],
+                        [
+                            -83.613524,
+                            38.750526
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45105",
+                "county-code": "001",
+                "state": "OH",
+                "city": "Bentonville"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.3864,
+                    29.405
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.393249,
+                            29.402291
+                        ],
+                        [
+                            -96.383517,
+                            29.406377
+                        ],
+                        [
+                            -96.375814,
+                            29.393271
+                        ],
+                        [
+                            -96.385345,
+                            29.388082
+                        ],
+                        [
+                            -96.393249,
+                            29.402291
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "77460",
+                "county-code": "089",
+                "state": "TX",
+                "city": "Nada"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0264,
+                    41.0862
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.032332,
+                            41.086712
+                        ],
+                        [
+                            -79.030721,
+                            41.086337
+                        ],
+                        [
+                            -79.026707,
+                            41.086802
+                        ],
+                        [
+                            -79.026662,
+                            41.085766
+                        ],
+                        [
+                            -79.032495,
+                            41.085647
+                        ],
+                        [
+                            -79.032332,
+                            41.086712
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "15847",
+                "county-code": "065",
+                "state": "PA",
+                "city": "Knox Dale"
+            }
+        }
+    ]
+}

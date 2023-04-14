@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.9929,
+                    32.0627
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.996451,
+                            32.062532
+                        ],
+                        [
+                            -89.994256,
+                            32.062673
+                        ],
+                        [
+                            -89.992749,
+                            32.061733
+                        ],
+                        [
+                            -89.993088,
+                            32.060797
+                        ],
+                        [
+                            -89.9954,
+                            32.060356
+                        ],
+                        [
+                            -89.996451,
+                            32.062532
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "39148",
+                "county-code": "121",
+                "state": "MS",
+                "city": "Piney Woods"
+            }
+        }
+    ]
+}

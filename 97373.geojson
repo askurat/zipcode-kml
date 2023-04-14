@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.457,
+                    44.9845
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.77856,
+                            45.0601
+                        ],
+                        [
+                            -122.77645,
+                            45.05887
+                        ],
+                        [
+                            -122.774052,
+                            45.057684
+                        ],
+                        [
+                            -122.772093,
+                            45.056326
+                        ],
+                        [
+                            -122.77555,
+                            45.05654
+                        ],
+                        [
+                            -122.77855,
+                            45.0579
+                        ],
+                        [
+                            -122.780909,
+                            45.060534
+                        ],
+                        [
+                            -122.77856,
+                            45.0601
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "97373",
+                "county-code": "047",
+                "state": "OR",
+                "city": "Saint Benedict"
+            }
+        }
+    ]
+}

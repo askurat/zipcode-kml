@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5114,
+                    40.8508
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.513687,
+                            40.764223
+                        ],
+                        [
+                            -82.513212,
+                            40.76501
+                        ],
+                        [
+                            -82.51122,
+                            40.764947
+                        ],
+                        [
+                            -82.511392,
+                            40.762831
+                        ],
+                        [
+                            -82.513788,
+                            40.762928
+                        ],
+                        [
+                            -82.513687,
+                            40.764223
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "44901",
+                "county-code": "139",
+                "state": "OH",
+                "city": "Mansfield"
+            }
+        }
+    ]
+}

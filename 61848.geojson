@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7007,
+                    40.304
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.710932,
+                            40.314228
+                        ],
+                        [
+                            -87.691771,
+                            40.314213
+                        ],
+                        [
+                            -87.69109,
+                            40.29944
+                        ],
+                        [
+                            -87.710256,
+                            40.299889
+                        ],
+                        [
+                            -87.710932,
+                            40.314228
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "61848",
+                "county-code": "183",
+                "state": "IL",
+                "city": "Henning"
+            }
+        }
+    ]
+}

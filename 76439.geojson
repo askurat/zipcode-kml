@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.9267,
+                    32.6187
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.930001,
+                            32.615664
+                        ],
+                        [
+                            -97.927159,
+                            32.619485
+                        ],
+                        [
+                            -97.92614,
+                            32.621022
+                        ],
+                        [
+                            -97.925476,
+                            32.621331
+                        ],
+                        [
+                            -97.925613,
+                            32.620527
+                        ],
+                        [
+                            -97.92541,
+                            32.615985
+                        ],
+                        [
+                            -97.928434,
+                            32.615346
+                        ],
+                        [
+                            -97.930001,
+                            32.615664
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "76439",
+                "county-code": "367",
+                "state": "TX",
+                "city": "Dennis"
+            }
+        }
+    ]
+}

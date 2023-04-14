@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.3437,
+                    37.2581
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.29629,
+                            37.21511
+                        ],
+                        [
+                            -93.29628,
+                            37.21545
+                        ],
+                        [
+                            -93.29404,
+                            37.21542
+                        ],
+                        [
+                            -93.29415,
+                            37.21299
+                        ],
+                        [
+                            -93.29638,
+                            37.21299
+                        ],
+                        [
+                            -93.29629,
+                            37.21511
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "65801",
+                "county-code": "077",
+                "state": "MO",
+                "city": "Springfield"
+            }
+        }
+    ]
+}

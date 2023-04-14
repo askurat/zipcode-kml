@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.8002,
+                    29.3305
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.778329,
+                            29.311173
+                        ],
+                        [
+                            -94.776158,
+                            29.311939
+                        ],
+                        [
+                            -94.774689,
+                            29.311449
+                        ],
+                        [
+                            -94.774245,
+                            29.310527
+                        ],
+                        [
+                            -94.777795,
+                            29.309602
+                        ],
+                        [
+                            -94.778329,
+                            29.311173
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "77555",
+                "county-code": "167",
+                "state": "TX",
+                "city": "Galveston"
+            }
+        }
+    ]
+}

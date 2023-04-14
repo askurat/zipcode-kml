@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.551,
+                    44.2588
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -69.558818,
+                            44.262958
+                        ],
+                        [
+                            -69.556561,
+                            44.261446
+                        ],
+                        [
+                            -69.550777,
+                            44.25846
+                        ],
+                        [
+                            -69.551365,
+                            44.258145
+                        ],
+                        [
+                            -69.553681,
+                            44.258185
+                        ],
+                        [
+                            -69.556258,
+                            44.260062
+                        ],
+                        [
+                            -69.559556,
+                            44.263087
+                        ],
+                        [
+                            -69.558818,
+                            44.262958
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "04341",
+                "county-code": "015",
+                "state": "ME",
+                "city": "Coopers Mills"
+            }
+        }
+    ]
+}

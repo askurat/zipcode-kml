@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5171,
+                    40.7695
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.521183,
+                            40.773315
+                        ],
+                        [
+                            -91.511634,
+                            40.77333
+                        ],
+                        [
+                            -91.511628,
+                            40.762358
+                        ],
+                        [
+                            -91.521153,
+                            40.762352
+                        ],
+                        [
+                            -91.521172,
+                            40.769659
+                        ],
+                        [
+                            -91.521183,
+                            40.773315
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "52657",
+                "county-code": "111",
+                "state": "IA",
+                "city": "Saint Paul"
+            }
+        }
+    ]
+}

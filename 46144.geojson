@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6476,
+                    39.6617
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.65184,
+                            39.683986
+                        ],
+                        [
+                            -85.642299,
+                            39.683967
+                        ],
+                        [
+                            -85.642342,
+                            39.658692
+                        ],
+                        [
+                            -85.642299,
+                            39.647612
+                        ],
+                        [
+                            -85.651641,
+                            39.647651
+                        ],
+                        [
+                            -85.651819,
+                            39.661229
+                        ],
+                        [
+                            -85.65184,
+                            39.683986
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46144",
+                "county-code": "145",
+                "state": "IN",
+                "city": "Gwynneville"
+            }
+        }
+    ]
+}

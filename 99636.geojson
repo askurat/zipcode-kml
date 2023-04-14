@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.2905,
+                    59.4882
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -157.356065,
+                            59.519514
+                        ],
+                        [
+                            -157.185922,
+                            59.519516
+                        ],
+                        [
+                            -157.18592,
+                            59.494758
+                        ],
+                        [
+                            -157.185916,
+                            59.432839
+                        ],
+                        [
+                            -157.318065,
+                            59.43284
+                        ],
+                        [
+                            -157.35606,
+                            59.432837
+                        ],
+                        [
+                            -157.356065,
+                            59.519514
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "99636",
+                "county-code": "070",
+                "state": "AK",
+                "city": "New Stuyahok"
+            }
+        }
+    ]
+}

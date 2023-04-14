@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.021,
+                    41.3166
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.02254,
+                            41.31628
+                        ],
+                        [
+                            -76.022246,
+                            41.316184
+                        ],
+                        [
+                            -76.021494,
+                            41.315902
+                        ],
+                        [
+                            -76.02207,
+                            41.315038
+                        ],
+                        [
+                            -76.022331,
+                            41.314935
+                        ],
+                        [
+                            -76.023209,
+                            41.315292
+                        ],
+                        [
+                            -76.02254,
+                            41.31628
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "18627",
+                "county-code": "079",
+                "state": "PA",
+                "city": "Lehman"
+            }
+        }
+    ]
+}

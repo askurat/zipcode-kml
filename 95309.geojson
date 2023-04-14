@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.4069,
+                    37.8594
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -120.435467,
+                            37.870891
+                        ],
+                        [
+                            -120.432939,
+                            37.873457
+                        ],
+                        [
+                            -120.431088,
+                            37.871156
+                        ],
+                        [
+                            -120.431292,
+                            37.870163
+                        ],
+                        [
+                            -120.43407,
+                            37.870714
+                        ],
+                        [
+                            -120.435467,
+                            37.870891
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "95309",
+                "county-code": "109",
+                "state": "CA",
+                "city": "Chinese Camp"
+            }
+        }
+    ]
+}

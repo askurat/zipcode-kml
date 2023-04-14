@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6123,
+                    38.3358
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.614016,
+                            38.339065
+                        ],
+                        [
+                            -81.614029,
+                            38.338411
+                        ],
+                        [
+                            -81.610158,
+                            38.337141
+                        ],
+                        [
+                            -81.611046,
+                            38.335255
+                        ],
+                        [
+                            -81.613931,
+                            38.335713
+                        ],
+                        [
+                            -81.616309,
+                            38.336429
+                        ],
+                        [
+                            -81.614016,
+                            38.339065
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "25305",
+                "county-code": "039",
+                "state": "WV",
+                "city": "Charleston"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1657,
+                    32.6716
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.170644,
+                            32.675667
+                        ],
+                        [
+                            -117.163787,
+                            32.6697
+                        ],
+                        [
+                            -117.160719,
+                            32.66568
+                        ],
+                        [
+                            -117.172069896336,
+                            32.6741727850996
+                        ],
+                        [
+                            -117.170644,
+                            32.675667
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "92155",
+                "county-code": "073",
+                "state": "CA",
+                "city": "San Diego"
+            }
+        }
+    ]
+}

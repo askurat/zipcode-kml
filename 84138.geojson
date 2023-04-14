@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.891,
+                    40.7608
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.888228,
+                            40.767173
+                        ],
+                        [
+                            -111.886368,
+                            40.767175
+                        ],
+                        [
+                            -111.886194,
+                            40.766306
+                        ],
+                        [
+                            -111.888227,
+                            40.766352
+                        ],
+                        [
+                            -111.888227,
+                            40.766445
+                        ],
+                        [
+                            -111.888228,
+                            40.767173
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "84138",
+                "county-code": "035",
+                "state": "UT",
+                "city": "Salt Lake City"
+            }
+        }
+    ]
+}

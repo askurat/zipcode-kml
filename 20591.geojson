@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0146,
+                    38.8933
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.024016,
+                            38.887566
+                        ],
+                        [
+                            -77.021916,
+                            38.887563
+                        ],
+                        [
+                            -77.021912,
+                            38.886322
+                        ],
+                        [
+                            -77.024028,
+                            38.886334
+                        ],
+                        [
+                            -77.024016,
+                            38.887566
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "20591",
+                "county-code": "001",
+                "state": "DC",
+                "city": "Washington"
+            }
+        }
+    ]
+}

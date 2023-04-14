@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -150.9971,
+                    70.1927
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -151.052807,
+                            70.235123
+                        ],
+                        [
+                            -150.926843,
+                            70.235126
+                        ],
+                        [
+                            -150.926728,
+                            70.227683
+                        ],
+                        [
+                            -150.926384,
+                            70.191852
+                        ],
+                        [
+                            -151.052661,
+                            70.191848
+                        ],
+                        [
+                            -151.052807,
+                            70.235123
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "99789",
+                "county-code": "185",
+                "state": "AK",
+                "city": "Nuiqsut"
+            }
+        }
+    ]
+}

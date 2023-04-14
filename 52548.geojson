@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.5303,
+                    41.086
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.53479,
+                            41.089696
+                        ],
+                        [
+                            -92.532539,
+                            41.089721
+                        ],
+                        [
+                            -92.530746,
+                            41.088876
+                        ],
+                        [
+                            -92.526788,
+                            41.086753
+                        ],
+                        [
+                            -92.525177,
+                            41.085408
+                        ],
+                        [
+                            -92.52516,
+                            41.082463
+                        ],
+                        [
+                            -92.534754,
+                            41.082433
+                        ],
+                        [
+                            -92.53479,
+                            41.089696
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "52548",
+                "county-code": "179",
+                "state": "IA",
+                "city": "Chillicothe"
+            }
+        }
+    ]
+}

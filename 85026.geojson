@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.074,
+                    33.4484
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.978429,
+                            33.451115
+                        ],
+                        [
+                            -111.969748,
+                            33.450961
+                        ],
+                        [
+                            -111.969066,
+                            33.450946
+                        ],
+                        [
+                            -111.969025,
+                            33.446254
+                        ],
+                        [
+                            -111.97842,
+                            33.447378
+                        ],
+                        [
+                            -111.978429,
+                            33.451115
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "85026",
+                "county-code": "013",
+                "state": "AZ",
+                "city": "Phoenix"
+            }
+        }
+    ]
+}

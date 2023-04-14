@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8288,
+                    35.0562
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.81344,
+                            35.0707
+                        ],
+                        [
+                            -90.80978,
+                            35.07061
+                        ],
+                        [
+                            -90.80462,
+                            35.0711
+                        ],
+                        [
+                            -90.80257,
+                            35.07027
+                        ],
+                        [
+                            -90.80255,
+                            35.06693
+                        ],
+                        [
+                            -90.81345,
+                            35.06675
+                        ],
+                        [
+                            -90.81344,
+                            35.0707
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "72322",
+                "county-code": "123",
+                "state": "AR",
+                "city": "Caldwell"
+            }
+        }
+    ]
+}

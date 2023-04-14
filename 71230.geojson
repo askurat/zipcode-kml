@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5901,
+                    32.2407
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.594315,
+                            32.242745
+                        ],
+                        [
+                            -91.591089,
+                            32.241321
+                        ],
+                        [
+                            -91.591608,
+                            32.238999
+                        ],
+                        [
+                            -91.593332,
+                            32.237344
+                        ],
+                        [
+                            -91.593423,
+                            32.239369
+                        ],
+                        [
+                            -91.594315,
+                            32.242745
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "71230",
+                "county-code": "041",
+                "state": "LA",
+                "city": "Crowville"
+            }
+        }
+    ]
+}

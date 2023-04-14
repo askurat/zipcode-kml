@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1613,
+                    39.7613
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.161927,
+                            39.761523
+                        ],
+                        [
+                            -86.160117,
+                            39.761483
+                        ],
+                        [
+                            -86.160164,
+                            39.760213
+                        ],
+                        [
+                            -86.160209,
+                            39.75901
+                        ],
+                        [
+                            -86.16202,
+                            39.759055
+                        ],
+                        [
+                            -86.161927,
+                            39.761523
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46206",
+                "county-code": "097",
+                "state": "IN",
+                "city": "Indianapolis"
+            }
+        }
+    ]
+}

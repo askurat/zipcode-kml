@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6448,
+                    42.0973
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.643911,
+                            42.098964
+                        ],
+                        [
+                            -71.643127,
+                            42.100352
+                        ],
+                        [
+                            -71.641617,
+                            42.099192
+                        ],
+                        [
+                            -71.641172,
+                            42.098904
+                        ],
+                        [
+                            -71.644503,
+                            42.09773
+                        ],
+                        [
+                            -71.643911,
+                            42.098964
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "01525",
+                "county-code": "027",
+                "state": "MA",
+                "city": "Linwood"
+            }
+        }
+    ]
+}

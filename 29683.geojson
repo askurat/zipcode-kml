@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4941,
+                    35.0289
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.496686,
+                            35.031805
+                        ],
+                        [
+                            -82.491782,
+                            35.033829
+                        ],
+                        [
+                            -82.488403,
+                            35.030208
+                        ],
+                        [
+                            -82.489248,
+                            35.028935
+                        ],
+                        [
+                            -82.494086,
+                            35.027865
+                        ],
+                        [
+                            -82.494487,
+                            35.025953
+                        ],
+                        [
+                            -82.496432,
+                            35.028148
+                        ],
+                        [
+                            -82.496686,
+                            35.031805
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "29683",
+                "county-code": "045",
+                "state": "SC",
+                "city": "Slater"
+            }
+        }
+    ]
+}

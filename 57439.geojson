@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.0837,
+                    45.329
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -98.10406,
+                            45.341816
+                        ],
+                        [
+                            -98.095748,
+                            45.341815
+                        ],
+                        [
+                            -98.095788,
+                            45.334328
+                        ],
+                        [
+                            -98.096255,
+                            45.33259
+                        ],
+                        [
+                            -98.096203,
+                            45.32733
+                        ],
+                        [
+                            -98.10431,
+                            45.327364
+                        ],
+                        [
+                            -98.10406,
+                            45.341816
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "57439",
+                "county-code": "013",
+                "state": "SD",
+                "city": "Ferney"
+            }
+        }
+    ]
+}

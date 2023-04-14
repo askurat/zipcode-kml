@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.8918,
+                    21.3416
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -157.884245,
+                            21.345255
+                        ],
+                        [
+                            -157.88416,
+                            21.345705
+                        ],
+                        [
+                            -157.88234,
+                            21.345367
+                        ],
+                        [
+                            -157.882712,
+                            21.343532
+                        ],
+                        [
+                            -157.884406,
+                            21.343676
+                        ],
+                        [
+                            -157.884245,
+                            21.345255
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "96858",
+                "county-code": "003",
+                "state": "HI",
+                "city": "Fort Shafter"
+            }
+        }
+    ]
+}

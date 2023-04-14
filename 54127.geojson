@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.2696,
+                    44.7964
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -88.273701,
+                            44.79556
+                        ],
+                        [
+                            -88.273648,
+                            44.799381
+                        ],
+                        [
+                            -88.270384,
+                            44.7994
+                        ],
+                        [
+                            -88.262556,
+                            44.799444
+                        ],
+                        [
+                            -88.262622,
+                            44.795718
+                        ],
+                        [
+                            -88.262644,
+                            44.79452
+                        ],
+                        [
+                            -88.273719,
+                            44.794386
+                        ],
+                        [
+                            -88.273701,
+                            44.79556
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "54127",
+                "county-code": "115",
+                "state": "WI",
+                "city": "Green Valley"
+            }
+        }
+    ]
+}

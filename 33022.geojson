@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1442,
+                    26.0134
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.145057,
+                            26.014277
+                        ],
+                        [
+                            -80.143099,
+                            26.014333
+                        ],
+                        [
+                            -80.143079,
+                            26.013415
+                        ],
+                        [
+                            -80.145048,
+                            26.013372
+                        ],
+                        [
+                            -80.145057,
+                            26.014277
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "33022",
+                "county-code": "011",
+                "state": "FL",
+                "city": "Hollywood"
+            }
+        }
+    ]
+}

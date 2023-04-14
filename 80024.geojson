@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9188,
+                    39.8445
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -104.919103,
+                            39.845041
+                        ],
+                        [
+                            -104.918867,
+                            39.845632
+                        ],
+                        [
+                            -104.917959,
+                            39.847239
+                        ],
+                        [
+                            -104.917792,
+                            39.845386
+                        ],
+                        [
+                            -104.917849,
+                            39.841742
+                        ],
+                        [
+                            -104.919137,
+                            39.841747
+                        ],
+                        [
+                            -104.919103,
+                            39.845041
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "80024",
+                "county-code": "001",
+                "state": "CO",
+                "city": "Dupont"
+            }
+        }
+    ]
+}

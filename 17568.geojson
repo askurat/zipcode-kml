@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.2322,
+                    39.9469
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.24031,
+                            39.953031
+                        ],
+                        [
+                            -76.236518,
+                            39.949978
+                        ],
+                        [
+                            -76.230162,
+                            39.947879
+                        ],
+                        [
+                            -76.23002,
+                            39.947836
+                        ],
+                        [
+                            -76.229592,
+                            39.946419
+                        ],
+                        [
+                            -76.234232,
+                            39.94562
+                        ],
+                        [
+                            -76.236636,
+                            39.948227
+                        ],
+                        [
+                            -76.24031,
+                            39.953031
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "17568",
+                "county-code": "071",
+                "state": "PA",
+                "city": "Refton"
+            }
+        }
+    ]
+}

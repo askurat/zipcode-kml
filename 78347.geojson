@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.462,
+                    27.5988
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.502806,
+                            27.586291
+                        ],
+                        [
+                            -97.470201,
+                            27.586468
+                        ],
+                        [
+                            -97.470032,
+                            27.56048
+                        ],
+                        [
+                            -97.486351,
+                            27.560252
+                        ],
+                        [
+                            -97.50083,
+                            27.560458
+                        ],
+                        [
+                            -97.50272,
+                            27.560386
+                        ],
+                        [
+                            -97.502806,
+                            27.586291
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "78347",
+                "county-code": "355",
+                "state": "TX",
+                "city": "Chapman Ranch"
+            }
+        }
+    ]
+}

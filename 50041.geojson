@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2449,
+                    42.633
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.252642,
+                            42.636979
+                        ],
+                        [
+                            -93.243065,
+                            42.636921
+                        ],
+                        [
+                            -93.243316,
+                            42.629569
+                        ],
+                        [
+                            -93.244709,
+                            42.62957
+                        ],
+                        [
+                            -93.247149,
+                            42.632472
+                        ],
+                        [
+                            -93.249284,
+                            42.633422
+                        ],
+                        [
+                            -93.252869,
+                            42.63657
+                        ],
+                        [
+                            -93.252642,
+                            42.636979
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50041",
+                "county-code": "069",
+                "state": "IA",
+                "city": "Bradford"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5889,
+                    39.5811
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.594736,
+                            39.585614
+                        ],
+                        [
+                            -87.581198,
+                            39.585658
+                        ],
+                        [
+                            -87.581106,
+                            39.578417
+                        ],
+                        [
+                            -87.581068,
+                            39.575142
+                        ],
+                        [
+                            -87.586478,
+                            39.578367
+                        ],
+                        [
+                            -87.594655,
+                            39.578396
+                        ],
+                        [
+                            -87.594736,
+                            39.585614
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "61955",
+                "county-code": "045",
+                "state": "IL",
+                "city": "Vermilion"
+            }
+        }
+    ]
+}

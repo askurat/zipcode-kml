@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1938,
+                    34.6012
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.194964,
+                            34.60212
+                        ],
+                        [
+                            -92.193713,
+                            34.60594
+                        ],
+                        [
+                            -92.190132,
+                            34.605424
+                        ],
+                        [
+                            -92.190794,
+                            34.602787
+                        ],
+                        [
+                            -92.19067,
+                            34.599327
+                        ],
+                        [
+                            -92.1914,
+                            34.594888
+                        ],
+                        [
+                            -92.196285,
+                            34.594961
+                        ],
+                        [
+                            -92.194964,
+                            34.60212
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "72183",
+                "county-code": "119",
+                "state": "AR",
+                "city": "Wrightsville"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.5269,
+                    39.9077
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -121.532242,
+                            39.91052
+                        ],
+                        [
+                            -121.529677,
+                            39.911254
+                        ],
+                        [
+                            -121.527506,
+                            39.905176
+                        ],
+                        [
+                            -121.528799,
+                            39.904886
+                        ],
+                        [
+                            -121.529594,
+                            39.907167
+                        ],
+                        [
+                            -121.530481,
+                            39.909701
+                        ],
+                        [
+                            -121.532242,
+                            39.91052
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "95978",
+                "county-code": "007",
+                "state": "CA",
+                "city": "Stirling City"
+            }
+        }
+    ]
+}

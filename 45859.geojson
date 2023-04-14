@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.8111,
+                    40.6899
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.791864,
+                            40.697068
+                        ],
+                        [
+                            -83.779882,
+                            40.697104
+                        ],
+                        [
+                            -83.779989,
+                            40.6885
+                        ],
+                        [
+                            -83.785342,
+                            40.688508
+                        ],
+                        [
+                            -83.785335,
+                            40.689507
+                        ],
+                        [
+                            -83.791968,
+                            40.689488
+                        ],
+                        [
+                            -83.791864,
+                            40.697068
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45859",
+                "county-code": "065",
+                "state": "OH",
+                "city": "Mc Guffey"
+            }
+        }
+    ]
+}

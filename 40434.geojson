@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9402,
+                    37.3951
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.941645,
+                            37.394235
+                        ],
+                        [
+                            -83.940169,
+                            37.39578
+                        ],
+                        [
+                            -83.936802,
+                            37.39293
+                        ],
+                        [
+                            -83.938715,
+                            37.392093
+                        ],
+                        [
+                            -83.940304,
+                            37.392142
+                        ],
+                        [
+                            -83.941645,
+                            37.394235
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "40434",
+                "county-code": "109",
+                "state": "KY",
+                "city": "Gray Hawk"
+            }
+        }
+    ]
+}

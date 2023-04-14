@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1331,
+                    33.2148
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.15289,
+                            33.21269
+                        ],
+                        [
+                            -97.15073,
+                            33.21267
+                        ],
+                        [
+                            -97.15074,
+                            33.21157
+                        ],
+                        [
+                            -97.15289,
+                            33.211599
+                        ],
+                        [
+                            -97.15289,
+                            33.21269
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "76203",
+                "county-code": "121",
+                "state": "TX",
+                "city": "Denton"
+            }
+        }
+    ]
+}

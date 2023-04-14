@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.1708,
+                    40.1039
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -105.173192,
+                            40.103812
+                        ],
+                        [
+                            -105.170285,
+                            40.10594
+                        ],
+                        [
+                            -105.170181,
+                            40.10447
+                        ],
+                        [
+                            -105.169046,
+                            40.101604
+                        ],
+                        [
+                            -105.169158,
+                            40.101604
+                        ],
+                        [
+                            -105.175572,
+                            40.101666
+                        ],
+                        [
+                            -105.173192,
+                            40.103812
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "80544",
+                "county-code": "013",
+                "state": "CO",
+                "city": "Niwot"
+            }
+        }
+    ]
+}

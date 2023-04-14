@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3975,
+                    35.1876
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.43005,
+                            35.22964
+                        ],
+                        [
+                            -97.428837,
+                            35.230104
+                        ],
+                        [
+                            -97.427993,
+                            35.228491
+                        ],
+                        [
+                            -97.424293,
+                            35.229238
+                        ],
+                        [
+                            -97.424123,
+                            35.226167
+                        ],
+                        [
+                            -97.429285,
+                            35.225819
+                        ],
+                        [
+                            -97.430306,
+                            35.227609
+                        ],
+                        [
+                            -97.43005,
+                            35.22964
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "73070",
+                "county-code": "027",
+                "state": "OK",
+                "city": "Norman"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9907,
+                    39.7458
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -104.990541,
+                            39.745791
+                        ],
+                        [
+                            -104.989334,
+                            39.746715
+                        ],
+                        [
+                            -104.988902,
+                            39.74638
+                        ],
+                        [
+                            -104.990094,
+                            39.745446
+                        ],
+                        [
+                            -104.990541,
+                            39.745791
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "80293",
+                "county-code": "031",
+                "state": "CO",
+                "city": "Denver"
+            }
+        }
+    ]
+}

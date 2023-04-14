@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4701,
+                    42.455
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.485216,
+                            42.467532
+                        ],
+                        [
+                            -97.465319,
+                            42.467512
+                        ],
+                        [
+                            -97.465346,
+                            42.462094
+                        ],
+                        [
+                            -97.465496,
+                            42.453082
+                        ],
+                        [
+                            -97.473217,
+                            42.453093
+                        ],
+                        [
+                            -97.485256,
+                            42.453095
+                        ],
+                        [
+                            -97.485216,
+                            42.467532
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "68749",
+                "county-code": "027",
+                "state": "NE",
+                "city": "Magnet"
+            }
+        }
+    ]
+}

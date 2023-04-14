@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3097,
+                    41.9358
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.305132,
+                            41.932706
+                        ],
+                        [
+                            -79.304159,
+                            41.934114
+                        ],
+                        [
+                            -79.300904,
+                            41.931692
+                        ],
+                        [
+                            -79.301603,
+                            41.930731
+                        ],
+                        [
+                            -79.301636,
+                            41.930684
+                        ],
+                        [
+                            -79.301651,
+                            41.930686
+                        ],
+                        [
+                            -79.304811,
+                            41.931465
+                        ],
+                        [
+                            -79.305132,
+                            41.932706
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "16312",
+                "county-code": "123",
+                "state": "PA",
+                "city": "Chandlers Valley"
+            }
+        }
+    ]
+}

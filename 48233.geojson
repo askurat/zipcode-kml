@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1508,
+                    42.2399
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.066845,
+                            42.322354
+                        ],
+                        [
+                            -83.061659,
+                            42.324573
+                        ],
+                        [
+                            -83.060461,
+                            42.325079
+                        ],
+                        [
+                            -83.059481,
+                            42.323831
+                        ],
+                        [
+                            -83.065407,
+                            42.321622
+                        ],
+                        [
+                            -83.066145,
+                            42.321664
+                        ],
+                        [
+                            -83.066845,
+                            42.322354
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "48233",
+                "county-code": "163",
+                "state": "MI",
+                "city": "Detroit"
+            }
+        }
+    ]
+}

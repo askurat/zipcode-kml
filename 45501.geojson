@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.8132,
+                    39.9271
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.808233,
+                            39.927021
+                        ],
+                        [
+                            -83.806535,
+                            39.926917
+                        ],
+                        [
+                            -83.806677,
+                            39.92565
+                        ],
+                        [
+                            -83.808346,
+                            39.925751
+                        ],
+                        [
+                            -83.808233,
+                            39.927021
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45501",
+                "county-code": "023",
+                "state": "OH",
+                "city": "Springfield"
+            }
+        }
+    ]
+}

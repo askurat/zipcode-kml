@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.72,
+                    39.5737
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.719314,
+                            39.578586
+                        ],
+                        [
+                            -74.716645,
+                            39.576754
+                        ],
+                        [
+                            -74.718463,
+                            39.575518
+                        ],
+                        [
+                            -74.720827,
+                            39.57717
+                        ],
+                        [
+                            -74.719314,
+                            39.578586
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "08217",
+                "county-code": "001",
+                "state": "NJ",
+                "city": "Elwood"
+            }
+        }
+    ]
+}

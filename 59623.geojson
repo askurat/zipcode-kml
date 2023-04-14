@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0402,
+                    46.5901
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -112.04119,
+                            46.590448
+                        ],
+                        [
+                            -112.040189,
+                            46.59047
+                        ],
+                        [
+                            -112.040173,
+                            46.589811
+                        ],
+                        [
+                            -112.0402,
+                            46.589343
+                        ],
+                        [
+                            -112.041176,
+                            46.589388
+                        ],
+                        [
+                            -112.04119,
+                            46.590448
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "59623",
+                "county-code": "049",
+                "state": "MT",
+                "city": "Helena"
+            }
+        }
+    ]
+}

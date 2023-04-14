@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.3097,
+                    35.0456
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.312686,
+                            35.049595
+                        ],
+                        [
+                            -85.311699,
+                            35.049622
+                        ],
+                        [
+                            -85.311652,
+                            35.04833
+                        ],
+                        [
+                            -85.312643,
+                            35.048318
+                        ],
+                        [
+                            -85.312686,
+                            35.049595
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "37450",
+                "county-code": "065",
+                "state": "TN",
+                "city": "Chattanooga"
+            }
+        }
+    ]
+}

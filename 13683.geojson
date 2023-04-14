@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.731,
+                    44.9728
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.740173,
+                            44.97235
+                        ],
+                        [
+                            -74.737774,
+                            44.973006
+                        ],
+                        [
+                            -74.738434,
+                            44.976835
+                        ],
+                        [
+                            -74.732982,
+                            44.978571
+                        ],
+                        [
+                            -74.730576,
+                            44.972767
+                        ],
+                        [
+                            -74.739802,
+                            44.969226
+                        ],
+                        [
+                            -74.740173,
+                            44.97235
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "13683",
+                "county-code": "089",
+                "state": "NY",
+                "city": "Rooseveltown"
+            }
+        }
+    ]
+}

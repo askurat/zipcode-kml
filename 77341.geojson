@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5508,
+                    30.7142
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.558846,
+                            30.699643
+                        ],
+                        [
+                            -95.558245,
+                            30.698848
+                        ],
+                        [
+                            -95.557422,
+                            30.697743
+                        ],
+                        [
+                            -95.558455,
+                            30.697129
+                        ],
+                        [
+                            -95.560401,
+                            30.697775
+                        ],
+                        [
+                            -95.558846,
+                            30.699643
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "77341",
+                "county-code": "471",
+                "state": "TX",
+                "city": "Huntsville"
+            }
+        }
+    ]
+}

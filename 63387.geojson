@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.0168,
+                    39.1853
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.020668,
+                            39.184324
+                        ],
+                        [
+                            -91.01639,
+                            39.186344
+                        ],
+                        [
+                            -91.012368,
+                            39.186456
+                        ],
+                        [
+                            -91.014441,
+                            39.183217
+                        ],
+                        [
+                            -91.017181,
+                            39.182206
+                        ],
+                        [
+                            -91.018669,
+                            39.180567
+                        ],
+                        [
+                            -91.019068,
+                            39.181525
+                        ],
+                        [
+                            -91.020668,
+                            39.184324
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "63387",
+                "county-code": "113",
+                "state": "MO",
+                "city": "Whiteside"
+            }
+        }
+    ]
+}

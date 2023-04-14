@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.693,
+                    42.2643
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.699635,
+                            42.268204
+                        ],
+                        [
+                            -92.689898,
+                            42.26814
+                        ],
+                        [
+                            -92.685067,
+                            42.268133
+                        ],
+                        [
+                            -92.685038,
+                            42.260892
+                        ],
+                        [
+                            -92.699619,
+                            42.260969
+                        ],
+                        [
+                            -92.699635,
+                            42.268204
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50652",
+                "county-code": "171",
+                "state": "IA",
+                "city": "Lincoln"
+            }
+        }
+    ]
+}

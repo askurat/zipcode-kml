@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.8433,
+                    30.4513
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.844555,
+                            30.451661
+                        ],
+                        [
+                            -94.842337,
+                            30.453006
+                        ],
+                        [
+                            -94.83845,
+                            30.454179
+                        ],
+                        [
+                            -94.836312,
+                            30.453325
+                        ],
+                        [
+                            -94.841013,
+                            30.448349
+                        ],
+                        [
+                            -94.842306,
+                            30.44578
+                        ],
+                        [
+                            -94.843269,
+                            30.451026
+                        ],
+                        [
+                            -94.844555,
+                            30.451661
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "77368",
+                "county-code": "291",
+                "state": "TX",
+                "city": "Romayor"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3545,
+                    42.9162
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.380324,
+                            42.91789
+                        ],
+                        [
+                            -75.378329,
+                            42.922448
+                        ],
+                        [
+                            -75.376177,
+                            42.921817
+                        ],
+                        [
+                            -75.37354,
+                            42.92176
+                        ],
+                        [
+                            -75.373321,
+                            42.91421
+                        ],
+                        [
+                            -75.37889,
+                            42.913808
+                        ],
+                        [
+                            -75.380324,
+                            42.91789
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "13455",
+                "county-code": "065",
+                "state": "NY",
+                "city": "Sangerfield"
+            }
+        }
+    ]
+}

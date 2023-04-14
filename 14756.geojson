@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4239,
+                    42.1967
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.425473,
+                            42.196691
+                        ],
+                        [
+                            -79.423934,
+                            42.198707
+                        ],
+                        [
+                            -79.42329,
+                            42.198716
+                        ],
+                        [
+                            -79.421817,
+                            42.196538
+                        ],
+                        [
+                            -79.424585,
+                            42.195606
+                        ],
+                        [
+                            -79.425473,
+                            42.196691
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "14756",
+                "county-code": "013",
+                "state": "NY",
+                "city": "Maple Springs"
+            }
+        }
+    ]
+}

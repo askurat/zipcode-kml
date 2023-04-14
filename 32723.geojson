@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3068,
+                    29.0275
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.305594,
+                            29.035417
+                        ],
+                        [
+                            -81.303669,
+                            29.035424
+                        ],
+                        [
+                            -81.303609,
+                            29.033489
+                        ],
+                        [
+                            -81.304885,
+                            29.033476
+                        ],
+                        [
+                            -81.304895,
+                            29.034166
+                        ],
+                        [
+                            -81.305571,
+                            29.034156
+                        ],
+                        [
+                            -81.305594,
+                            29.035417
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "32723",
+                "county-code": "127",
+                "state": "FL",
+                "city": "Deland"
+            }
+        }
+    ]
+}

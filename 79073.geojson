@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.827,
+                    34.0689
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -101.957967,
+                            33.977838
+                        ],
+                        [
+                            -101.940547,
+                            33.977842
+                        ],
+                        [
+                            -101.940538,
+                            33.963338
+                        ],
+                        [
+                            -101.94052,
+                            33.934343
+                        ],
+                        [
+                            -101.957938,
+                            33.934313
+                        ],
+                        [
+                            -101.957967,
+                            33.977838
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "79073",
+                "county-code": "189",
+                "state": "TX",
+                "city": "Plainview"
+            }
+        }
+    ]
+}

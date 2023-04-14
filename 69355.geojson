@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.5177,
+                    41.7816
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -103.519144,
+                            41.785585
+                        ],
+                        [
+                            -103.512387,
+                            41.783188
+                        ],
+                        [
+                            -103.515327,
+                            41.783009
+                        ],
+                        [
+                            -103.515255,
+                            41.778707
+                        ],
+                        [
+                            -103.51914,
+                            41.778673
+                        ],
+                        [
+                            -103.519144,
+                            41.785585
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "69355",
+                "county-code": "157",
+                "state": "NE",
+                "city": "Melbeta"
+            }
+        }
+    ]
+}

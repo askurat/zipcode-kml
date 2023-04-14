@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9808,
+                    40.754
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.983624,
+                            40.755516
+                        ],
+                        [
+                            -73.980395,
+                            40.754155
+                        ],
+                        [
+                            -73.980888,
+                            40.753481
+                        ],
+                        [
+                            -73.984118,
+                            40.754842
+                        ],
+                        [
+                            -73.983624,
+                            40.755516
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "10110",
+                "county-code": "061",
+                "state": "NY",
+                "city": "New York"
+            }
+        }
+    ]
+}

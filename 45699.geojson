@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9968,
+                    38.8795
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.972875,
+                            38.878755
+                        ],
+                        [
+                            -82.969028,
+                            38.877696
+                        ],
+                        [
+                            -82.96517,
+                            38.876402
+                        ],
+                        [
+                            -82.965666,
+                            38.870734
+                        ],
+                        [
+                            -82.969123,
+                            38.87054
+                        ],
+                        [
+                            -82.969749,
+                            38.870505
+                        ],
+                        [
+                            -82.976901,
+                            38.871686
+                        ],
+                        [
+                            -82.972875,
+                            38.878755
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45699",
+                "county-code": "145",
+                "state": "OH",
+                "city": "Lucasville"
+            }
+        }
+    ]
+}

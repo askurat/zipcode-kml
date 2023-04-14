@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.2898,
+                    34.1083
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.289679,
+                            34.104578
+                        ],
+                        [
+                            -117.287414,
+                            34.104591
+                        ],
+                        [
+                            -117.28742,
+                            34.10832
+                        ],
+                        [
+                            -117.285155,
+                            34.10833
+                        ],
+                        [
+                            -117.28516,
+                            34.104577
+                        ],
+                        [
+                            -117.28516,
+                            34.102732
+                        ],
+                        [
+                            -117.289652,
+                            34.102721
+                        ],
+                        [
+                            -117.289679,
+                            34.104578
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "92415",
+                "county-code": "071",
+                "state": "CA",
+                "city": "San Bernardino"
+            }
+        }
+    ]
+}

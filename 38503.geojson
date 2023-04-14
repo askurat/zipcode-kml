@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5016,
+                    36.1628
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.505972,
+                            36.16353
+                        ],
+                        [
+                            -85.505517,
+                            36.163389
+                        ],
+                        [
+                            -85.506141,
+                            36.163074
+                        ],
+                        [
+                            -85.505972,
+                            36.16353
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "38503",
+                "county-code": "141",
+                "state": "TN",
+                "city": "Cookeville"
+            }
+        }
+    ]
+}

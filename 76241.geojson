@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0369,
+                    33.6104
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.180819,
+                            33.649721
+                        ],
+                        [
+                            -97.180404,
+                            33.64979
+                        ],
+                        [
+                            -97.178942,
+                            33.649832
+                        ],
+                        [
+                            -97.171988,
+                            33.649795
+                        ],
+                        [
+                            -97.171676,
+                            33.649914
+                        ],
+                        [
+                            -97.171847,
+                            33.640985
+                        ],
+                        [
+                            -97.180767,
+                            33.640991
+                        ],
+                        [
+                            -97.180819,
+                            33.649721
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "76241",
+                "county-code": "097",
+                "state": "TX",
+                "city": "Gainesville"
+            }
+        }
+    ]
+}

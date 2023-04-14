@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.552,
+                    33.9018
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.551914,
+                            33.901856
+                        ],
+                        [
+                            -87.549146,
+                            33.901909
+                        ],
+                        [
+                            -87.548509,
+                            33.901798
+                        ],
+                        [
+                            -87.54861,
+                            33.900597
+                        ],
+                        [
+                            -87.551512,
+                            33.901121
+                        ],
+                        [
+                            -87.551914,
+                            33.901856
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "35573",
+                "county-code": "127",
+                "state": "AL",
+                "city": "Kansas"
+            }
+        }
+    ]
+}

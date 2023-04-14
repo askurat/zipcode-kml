@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.6419,
+                    37.9434
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.645248,
+                            37.945087
+                        ],
+                        [
+                            -84.640923,
+                            37.94505
+                        ],
+                        [
+                            -84.637297,
+                            37.945018
+                        ],
+                        [
+                            -84.636938,
+                            37.94394
+                        ],
+                        [
+                            -84.636978,
+                            37.941083
+                        ],
+                        [
+                            -84.638902,
+                            37.9411
+                        ],
+                        [
+                            -84.6453,
+                            37.941467
+                        ],
+                        [
+                            -84.645248,
+                            37.945087
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "40339",
+                "county-code": "113",
+                "state": "KY",
+                "city": "Keene"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1916,
+                    39.7589
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.192202,
+                            39.760976
+                        ],
+                        [
+                            -84.190424,
+                            39.761256
+                        ],
+                        [
+                            -84.190025,
+                            39.759821
+                        ],
+                        [
+                            -84.19181,
+                            39.759537
+                        ],
+                        [
+                            -84.192202,
+                            39.760976
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45423",
+                "county-code": "113",
+                "state": "OH",
+                "city": "Dayton"
+            }
+        }
+    ]
+}

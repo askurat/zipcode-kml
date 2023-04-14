@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1284,
+                    38.0545
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.129928,
+                            38.058236
+                        ],
+                        [
+                            -97.125251,
+                            38.058151
+                        ],
+                        [
+                            -97.125289,
+                            38.049701
+                        ],
+                        [
+                            -97.128881,
+                            38.049739
+                        ],
+                        [
+                            -97.129848,
+                            38.051049
+                        ],
+                        [
+                            -97.129876,
+                            38.051043
+                        ],
+                        [
+                            -97.129928,
+                            38.058236
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "67041",
+                "county-code": "015",
+                "state": "KS",
+                "city": "Elbing"
+            }
+        }
+    ]
+}

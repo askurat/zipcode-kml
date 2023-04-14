@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.356,
+                    47.006
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -117.35857,
+                            47.009081
+                        ],
+                        [
+                            -117.35615,
+                            47.00907
+                        ],
+                        [
+                            -117.35614,
+                            47.00721
+                        ],
+                        [
+                            -117.35433,
+                            47.00588
+                        ],
+                        [
+                            -117.35564,
+                            47.00577
+                        ],
+                        [
+                            -117.35718,
+                            47.00498
+                        ],
+                        [
+                            -117.35857,
+                            47.009081
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "99174",
+                "county-code": "075",
+                "state": "WA",
+                "city": "Steptoe"
+            }
+        }
+    ]
+}

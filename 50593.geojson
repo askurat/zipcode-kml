@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.8979,
+                    42.6598
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.901911,
+                            42.661593
+                        ],
+                        [
+                            -94.899533,
+                            42.661586
+                        ],
+                        [
+                            -94.894627,
+                            42.66158
+                        ],
+                        [
+                            -94.894731,
+                            42.654316
+                        ],
+                        [
+                            -94.902035,
+                            42.654361
+                        ],
+                        [
+                            -94.901911,
+                            42.661593
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50593",
+                "county-code": "151",
+                "state": "IA",
+                "city": "Varina"
+            }
+        }
+    ]
+}

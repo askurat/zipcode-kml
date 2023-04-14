@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2915,
+                    32.7714
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.364463,
+                            32.71053
+                        ],
+                        [
+                            -97.364433,
+                            32.711684
+                        ],
+                        [
+                            -97.360436,
+                            32.711713
+                        ],
+                        [
+                            -97.360457,
+                            32.709632
+                        ],
+                        [
+                            -97.360475,
+                            32.707076
+                        ],
+                        [
+                            -97.364918,
+                            32.707053
+                        ],
+                        [
+                            -97.364463,
+                            32.71053
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "76129",
+                "county-code": "439",
+                "state": "TX",
+                "city": "Fort Worth"
+            }
+        }
+    ]
+}

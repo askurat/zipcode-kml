@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4891,
+                    43.6309
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -72.467702,
+                            43.629905
+                        ],
+                        [
+                            -72.466238,
+                            43.631059
+                        ],
+                        [
+                            -72.454934,
+                            43.629143
+                        ],
+                        [
+                            -72.456057,
+                            43.627483
+                        ],
+                        [
+                            -72.458844,
+                            43.626929
+                        ],
+                        [
+                            -72.46697,
+                            43.629445
+                        ],
+                        [
+                            -72.467702,
+                            43.629905
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "05073",
+                "county-code": "027",
+                "state": "VT",
+                "city": "Taftsville"
+            }
+        }
+    ]
+}

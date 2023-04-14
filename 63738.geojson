@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.9523,
+                    37.0828
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.959416,
+                            37.098356
+                        ],
+                        [
+                            -89.955485,
+                            37.097986
+                        ],
+                        [
+                            -89.954859,
+                            37.081507
+                        ],
+                        [
+                            -89.956955,
+                            37.081506
+                        ],
+                        [
+                            -89.956973,
+                            37.080448
+                        ],
+                        [
+                            -89.958315,
+                            37.080493
+                        ],
+                        [
+                            -89.959235,
+                            37.079822
+                        ],
+                        [
+                            -89.959416,
+                            37.098356
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "63738",
+                "county-code": "207",
+                "state": "MO",
+                "city": "Brownwood"
+            }
+        }
+    ]
+}

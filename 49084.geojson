@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3828,
+                    42.1834
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.389355,
+                            42.180494
+                        ],
+                        [
+                            -86.38184,
+                            42.183586
+                        ],
+                        [
+                            -86.380392,
+                            42.182275
+                        ],
+                        [
+                            -86.383516,
+                            42.181659
+                        ],
+                        [
+                            -86.383509,
+                            42.180364
+                        ],
+                        [
+                            -86.385827,
+                            42.17538
+                        ],
+                        [
+                            -86.387544,
+                            42.179447
+                        ],
+                        [
+                            -86.389355,
+                            42.180494
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "49084",
+                "county-code": "021",
+                "state": "MI",
+                "city": "Riverside"
+            }
+        }
+    ]
+}

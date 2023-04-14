@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.6596,
+                    35.2828
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -120.719792,
+                            35.321984
+                        ],
+                        [
+                            -120.720427,
+                            35.322469
+                        ],
+                        [
+                            -120.716624,
+                            35.321019
+                        ],
+                        [
+                            -120.717025,
+                            35.320395
+                        ],
+                        [
+                            -120.718222,
+                            35.32006
+                        ],
+                        [
+                            -120.721712,
+                            35.321829
+                        ],
+                        [
+                            -120.719792,
+                            35.321984
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "93408",
+                "county-code": "079",
+                "state": "CA",
+                "city": "San Luis Obispo"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.7231,
+                    36.3897
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.735316,
+                            36.397219
+                        ],
+                        [
+                            -90.730734,
+                            36.39731
+                        ],
+                        [
+                            -90.722028,
+                            36.397487
+                        ],
+                        [
+                            -90.722123,
+                            36.386412
+                        ],
+                        [
+                            -90.735563,
+                            36.386336
+                        ],
+                        [
+                            -90.735316,
+                            36.397219
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "72424",
+                "county-code": "021",
+                "state": "AR",
+                "city": "Datto"
+            }
+        }
+    ]
+}

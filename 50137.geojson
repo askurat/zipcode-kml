@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.9046,
+                    41.608
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.941403,
+                            41.616128
+                        ],
+                        [
+                            -92.936588,
+                            41.616116
+                        ],
+                        [
+                            -92.902752,
+                            41.616213
+                        ],
+                        [
+                            -92.902525,
+                            41.606825
+                        ],
+                        [
+                            -92.894878,
+                            41.601732
+                        ],
+                        [
+                            -92.94138,
+                            41.60162
+                        ],
+                        [
+                            -92.94141,
+                            41.61248
+                        ],
+                        [
+                            -92.941403,
+                            41.616128
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50137",
+                "county-code": "099",
+                "state": "IA",
+                "city": "Killduff"
+            }
+        }
+    ]
+}

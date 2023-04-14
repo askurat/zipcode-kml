@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0755,
+                    29.95
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.075613,
+                            29.950644
+                        ],
+                        [
+                            -90.074931,
+                            29.950455
+                        ],
+                        [
+                            -90.075325,
+                            29.949327
+                        ],
+                        [
+                            -90.07598,
+                            29.949477
+                        ],
+                        [
+                            -90.075613,
+                            29.950644
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "70163",
+                "county-code": "071",
+                "state": "LA",
+                "city": "New Orleans"
+            }
+        }
+    ]
+}

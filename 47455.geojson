@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.9562,
+                    39.3165
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.958441,
+                            39.314419
+                        ],
+                        [
+                            -86.95694,
+                            39.314408
+                        ],
+                        [
+                            -86.95687,
+                            39.312238
+                        ],
+                        [
+                            -86.953817,
+                            39.311863
+                        ],
+                        [
+                            -86.951335,
+                            39.311337
+                        ],
+                        [
+                            -86.95663,
+                            39.31161
+                        ],
+                        [
+                            -86.958696,
+                            39.312499
+                        ],
+                        [
+                            -86.958441,
+                            39.314419
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47455",
+                "county-code": "119",
+                "state": "IN",
+                "city": "Patricksburg"
+            }
+        }
+    ]
+}

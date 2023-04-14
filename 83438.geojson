@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7577,
+                    43.9594
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.760434,
+                            43.962866
+                        ],
+                        [
+                            -111.757986,
+                            43.962852
+                        ],
+                        [
+                            -111.758193,
+                            43.95751
+                        ],
+                        [
+                            -111.759091,
+                            43.956478
+                        ],
+                        [
+                            -111.760471,
+                            43.955829
+                        ],
+                        [
+                            -111.760434,
+                            43.962866
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "83438",
+                "county-code": "043",
+                "state": "ID",
+                "city": "Parker"
+            }
+        }
+    ]
+}

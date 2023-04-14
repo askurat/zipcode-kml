@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.9683,
+                    44.6748
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.973507,
+                            44.66994
+                        ],
+                        [
+                            -92.974453,
+                            44.669957
+                        ],
+                        [
+                            -92.974457,
+                            44.680066
+                        ],
+                        [
+                            -92.957661,
+                            44.679672
+                        ],
+                        [
+                            -92.954214,
+                            44.679734
+                        ],
+                        [
+                            -92.954244,
+                            44.666243
+                        ],
+                        [
+                            -92.974484,
+                            44.666368
+                        ],
+                        [
+                            -92.973507,
+                            44.66994
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "55085",
+                "county-code": "037",
+                "state": "MN",
+                "city": "Vermillion"
+            }
+        }
+    ]
+}

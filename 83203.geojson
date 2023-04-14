@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.4285,
+                    43.0331
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -112.4364,
+                            43.029361
+                        ],
+                        [
+                            -112.426933,
+                            43.029105
+                        ],
+                        [
+                            -112.426943,
+                            43.027188
+                        ],
+                        [
+                            -112.417001,
+                            43.027149
+                        ],
+                        [
+                            -112.417061,
+                            43.022179
+                        ],
+                        [
+                            -112.438362,
+                            43.022084
+                        ],
+                        [
+                            -112.4364,
+                            43.029361
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "83203",
+                "county-code": "011",
+                "state": "ID",
+                "city": "Fort Hall"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.2633,
+                    41.2967
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -72.252815,
+                            41.295964
+                        ],
+                        [
+                            -72.251625,
+                            41.295632
+                        ],
+                        [
+                            -72.251408,
+                            41.293413
+                        ],
+                        [
+                            -72.252048,
+                            41.292622
+                        ],
+                        [
+                            -72.255082,
+                            41.295486
+                        ],
+                        [
+                            -72.252815,
+                            41.295964
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "06376",
+                "county-code": "011",
+                "state": "CT",
+                "city": "South Lyme"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6248,
+                    40.5843
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.626473,
+                            40.584515
+                        ],
+                        [
+                            -75.623541,
+                            40.585042
+                        ],
+                        [
+                            -75.623191,
+                            40.584032
+                        ],
+                        [
+                            -75.625905,
+                            40.58348
+                        ],
+                        [
+                            -75.626473,
+                            40.584515
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "18195",
+                "county-code": "077",
+                "state": "PA",
+                "city": "Allentown"
+            }
+        }
+    ]
+}

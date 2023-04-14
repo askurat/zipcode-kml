@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.872,
+                    28.7702
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.877966,
+                            28.768041
+                        ],
+                        [
+                            -80.87619,
+                            28.768524
+                        ],
+                        [
+                            -80.875438,
+                            28.766034
+                        ],
+                        [
+                            -80.877202,
+                            28.765565
+                        ],
+                        [
+                            -80.877966,
+                            28.768041
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "32775",
+                "county-code": "009",
+                "state": "FL",
+                "city": "Scottsmoor"
+            }
+        }
+    ]
+}

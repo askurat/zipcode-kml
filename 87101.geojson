@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.6448,
+                    35.1996
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -106.644258,
+                            35.098923
+                        ],
+                        [
+                            -106.641735,
+                            35.098994
+                        ],
+                        [
+                            -106.642587,
+                            35.094346
+                        ],
+                        [
+                            -106.645022,
+                            35.09447
+                        ],
+                        [
+                            -106.644258,
+                            35.098923
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "87101",
+                "county-code": "001",
+                "state": "NM",
+                "city": "Albuquerque"
+            }
+        }
+    ]
+}

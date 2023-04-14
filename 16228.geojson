@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5358,
+                    40.7608
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.538761,
+                            40.761455
+                        ],
+                        [
+                            -79.535281,
+                            40.762994
+                        ],
+                        [
+                            -79.53252,
+                            40.761781
+                        ],
+                        [
+                            -79.531451,
+                            40.761164
+                        ],
+                        [
+                            -79.535999,
+                            40.758423
+                        ],
+                        [
+                            -79.536953,
+                            40.75864
+                        ],
+                        [
+                            -79.540021,
+                            40.760628
+                        ],
+                        [
+                            -79.538761,
+                            40.761455
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "16228",
+                "county-code": "005",
+                "state": "PA",
+                "city": "Ford Cliff"
+            }
+        }
+    ]
+}

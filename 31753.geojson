@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.8776,
+                    31.2054
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.873582,
+                            31.201173
+                        ],
+                        [
+                            -83.871955,
+                            31.201125
+                        ],
+                        [
+                            -83.87208,
+                            31.199501
+                        ],
+                        [
+                            -83.874046,
+                            31.200101
+                        ],
+                        [
+                            -83.873582,
+                            31.201173
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "31753",
+                "county-code": "071",
+                "state": "GA",
+                "city": "Funston"
+            }
+        }
+    ]
+}

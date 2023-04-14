@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7607,
+                    39.5699
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.76552,
+                            39.56861
+                        ],
+                        [
+                            -77.76079,
+                            39.57549
+                        ],
+                        [
+                            -77.760608,
+                            39.576693
+                        ],
+                        [
+                            -77.75554,
+                            39.57627
+                        ],
+                        [
+                            -77.756602,
+                            39.570879
+                        ],
+                        [
+                            -77.75768,
+                            39.56546
+                        ],
+                        [
+                            -77.764158,
+                            39.568043
+                        ],
+                        [
+                            -77.76552,
+                            39.56861
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "21781",
+                "county-code": "043",
+                "state": "MD",
+                "city": "Saint James"
+            }
+        }
+    ]
+}

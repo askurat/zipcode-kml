@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.0738,
+                    32.1468
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.086837,
+                            32.154052
+                        ],
+                        [
+                            -85.085499,
+                            32.154663
+                        ],
+                        [
+                            -85.075687,
+                            32.150353
+                        ],
+                        [
+                            -85.075195,
+                            32.149769
+                        ],
+                        [
+                            -85.073657,
+                            32.146231
+                        ],
+                        [
+                            -85.076353,
+                            32.146627
+                        ],
+                        [
+                            -85.087164,
+                            32.150447
+                        ],
+                        [
+                            -85.086837,
+                            32.154052
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "36851",
+                "county-code": "113",
+                "state": "AL",
+                "city": "Cottonton"
+            }
+        }
+    ]
+}

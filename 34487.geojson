@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6151,
+                    28.7814
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.613232,
+                            28.781384
+                        ],
+                        [
+                            -82.613278,
+                            28.782222
+                        ],
+                        [
+                            -82.612237,
+                            28.782291
+                        ],
+                        [
+                            -82.612136,
+                            28.780712
+                        ],
+                        [
+                            -82.613301,
+                            28.780746
+                        ],
+                        [
+                            -82.613232,
+                            28.781384
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "34487",
+                "county-code": "017",
+                "state": "FL",
+                "city": "Homosassa"
+            }
+        }
+    ]
+}

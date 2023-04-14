@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7601,
+                    41.3726
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.765974,
+                            41.371512
+                        ],
+                        [
+                            -73.764742,
+                            41.372524
+                        ],
+                        [
+                            -73.761624,
+                            41.371951
+                        ],
+                        [
+                            -73.761613,
+                            41.371644
+                        ],
+                        [
+                            -73.765241,
+                            41.369637
+                        ],
+                        [
+                            -73.76637,
+                            41.369445
+                        ],
+                        [
+                            -73.765974,
+                            41.371512
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "10542",
+                "county-code": "079",
+                "state": "NY",
+                "city": "Mahopac Falls"
+            }
+        }
+    ]
+}

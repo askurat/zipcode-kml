@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6081,
+                    37.0964
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.594412,
+                            37.140451
+                        ],
+                        [
+                            -80.591375,
+                            37.14125
+                        ],
+                        [
+                            -80.590703,
+                            37.141381
+                        ],
+                        [
+                            -80.590503,
+                            37.140765
+                        ],
+                        [
+                            -80.589822,
+                            37.13891
+                        ],
+                        [
+                            -80.591208,
+                            37.137174
+                        ],
+                        [
+                            -80.592159,
+                            37.137661
+                        ],
+                        [
+                            -80.594412,
+                            37.140451
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "24129",
+                "county-code": "155",
+                "state": "VA",
+                "city": "New River"
+            }
+        }
+    ]
+}

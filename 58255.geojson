@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.3648,
+                    48.9986
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -98.364996,
+                            48.99988
+                        ],
+                        [
+                            -98.3649260456132,
+                            49.0003751446575
+                        ],
+                        [
+                            -98.3427300457791,
+                            49.0003826361249
+                        ],
+                        [
+                            -98.342959,
+                            48.993284
+                        ],
+                        [
+                            -98.364968,
+                            48.993264
+                        ],
+                        [
+                            -98.364996,
+                            48.99988
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "58255",
+                "county-code": "019",
+                "state": "ND",
+                "city": "Maida"
+            }
+        }
+    ]
+}

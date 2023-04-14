@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.7471,
+                    39.4667
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.749998,
+                            39.468062
+                        ],
+                        [
+                            -82.749879,
+                            39.468899
+                        ],
+                        [
+                            -82.740729,
+                            39.46835
+                        ],
+                        [
+                            -82.740615,
+                            39.467621
+                        ],
+                        [
+                            -82.741107,
+                            39.46257
+                        ],
+                        [
+                            -82.741316,
+                            39.460459
+                        ],
+                        [
+                            -82.750685,
+                            39.460955
+                        ],
+                        [
+                            -82.749998,
+                            39.468062
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "43101",
+                "county-code": "141",
+                "state": "OH",
+                "city": "Adelphi"
+            }
+        }
+    ]
+}

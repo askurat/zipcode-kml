@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.016,
+                    42.899
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.018071,
+                            42.896538
+                        ],
+                        [
+                            -76.015756,
+                            42.89902
+                        ],
+                        [
+                            -76.016459,
+                            42.900313
+                        ],
+                        [
+                            -76.013427,
+                            42.900647
+                        ],
+                        [
+                            -76.012088,
+                            42.900885
+                        ],
+                        [
+                            -76.01196,
+                            42.899357
+                        ],
+                        [
+                            -76.017256,
+                            42.896772
+                        ],
+                        [
+                            -76.018071,
+                            42.896538
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "13138",
+                "county-code": "067",
+                "state": "NY",
+                "city": "Pompey"
+            }
+        }
+    ]
+}

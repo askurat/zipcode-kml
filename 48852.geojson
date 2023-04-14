@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.0517,
+                    43.3503
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.049174,
+                            43.357512
+                        ],
+                        [
+                            -85.045271,
+                            43.357502
+                        ],
+                        [
+                            -85.045311,
+                            43.355733
+                        ],
+                        [
+                            -85.041461,
+                            43.35495
+                        ],
+                        [
+                            -85.041917,
+                            43.353874
+                        ],
+                        [
+                            -85.047245,
+                            43.346616
+                        ],
+                        [
+                            -85.049309,
+                            43.346622
+                        ],
+                        [
+                            -85.049174,
+                            43.357512
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "48852",
+                "county-code": "117",
+                "state": "MI",
+                "city": "Mcbrides"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.3549,
+                    35.1053
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.462965,
+                            35.08126
+                        ],
+                        [
+                            -92.455789,
+                            35.081107
+                        ],
+                        [
+                            -92.454123,
+                            35.081158
+                        ],
+                        [
+                            -92.454325,
+                            35.075731
+                        ],
+                        [
+                            -92.460021,
+                            35.077521
+                        ],
+                        [
+                            -92.463087,
+                            35.077578
+                        ],
+                        [
+                            -92.462965,
+                            35.08126
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "72035",
+                "county-code": "045",
+                "state": "AR",
+                "city": "Conway"
+            }
+        }
+    ]
+}

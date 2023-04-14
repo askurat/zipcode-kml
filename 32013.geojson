@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.2913,
+                    30.1941
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.292352,
+                            30.194196
+                        ],
+                        [
+                            -83.29134,
+                            30.19419
+                        ],
+                        [
+                            -83.289351,
+                            30.194332
+                        ],
+                        [
+                            -83.291333,
+                            30.192529
+                        ],
+                        [
+                            -83.29134,
+                            30.19304
+                        ],
+                        [
+                            -83.29234,
+                            30.19305
+                        ],
+                        [
+                            -83.292352,
+                            30.194196
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "32013",
+                "county-code": "067",
+                "state": "FL",
+                "city": "Day"
+            }
+        }
+    ]
+}

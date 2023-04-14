@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8447,
+                    35.2242
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.845304,
+                            35.225653
+                        ],
+                        [
+                            -80.844204,
+                            35.22471
+                        ],
+                        [
+                            -80.845254,
+                            35.223974
+                        ],
+                        [
+                            -80.846379,
+                            35.22492
+                        ],
+                        [
+                            -80.845304,
+                            35.225653
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "28282",
+                "county-code": "119",
+                "state": "NC",
+                "city": "Charlotte"
+            }
+        }
+    ]
+}

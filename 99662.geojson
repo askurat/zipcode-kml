@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -165.5819,
+                    61.845
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -165.596494,
+                            61.845269
+                        ],
+                        [
+                            -165.586741,
+                            61.846198
+                        ],
+                        [
+                            -165.57625,
+                            61.848639
+                        ],
+                        [
+                            -165.571418,
+                            61.840473
+                        ],
+                        [
+                            -165.570326,
+                            61.838629
+                        ],
+                        [
+                            -165.590945,
+                            61.835902
+                        ],
+                        [
+                            -165.596494,
+                            61.845269
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "99662",
+                "county-code": "158",
+                "state": "AK",
+                "city": "Scammon Bay"
+            }
+        }
+    ]
+}

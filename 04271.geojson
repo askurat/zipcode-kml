@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.4985,
+                    44.2641
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -70.501032,
+                            44.26147
+                        ],
+                        [
+                            -70.495928,
+                            44.262372
+                        ],
+                        [
+                            -70.49441,
+                            44.261823
+                        ],
+                        [
+                            -70.500316,
+                            44.259217
+                        ],
+                        [
+                            -70.502359,
+                            44.260994
+                        ],
+                        [
+                            -70.501032,
+                            44.26147
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "04271",
+                "county-code": "017",
+                "state": "ME",
+                "city": "Paris"
+            }
+        }
+    ]
+}

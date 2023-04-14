@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.3432,
+                    35.1554
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.343217,
+                            35.15646
+                        ],
+                        [
+                            -91.342102,
+                            35.155464
+                        ],
+                        [
+                            -91.340897,
+                            35.155479
+                        ],
+                        [
+                            -91.340652,
+                            35.153378
+                        ],
+                        [
+                            -91.343273,
+                            35.153406
+                        ],
+                        [
+                            -91.343217,
+                            35.15646
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "72059",
+                "county-code": "147",
+                "state": "AR",
+                "city": "Gregory"
+            }
+        }
+    ]
+}

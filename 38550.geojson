@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6192,
+                    35.7734
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.633506,
+                            35.770237
+                        ],
+                        [
+                            -85.631875,
+                            35.769924
+                        ],
+                        [
+                            -85.631999,
+                            35.769229
+                        ],
+                        [
+                            -85.632994,
+                            35.769737
+                        ],
+                        [
+                            -85.633777,
+                            35.769923
+                        ],
+                        [
+                            -85.633506,
+                            35.770237
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "38550",
+                "county-code": "177",
+                "state": "TN",
+                "city": "Campaign"
+            }
+        }
+    ]
+}

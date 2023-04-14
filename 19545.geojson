@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6302,
+                    40.3397
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.630619,
+                            40.341433
+                        ],
+                        [
+                            -75.627838,
+                            40.343178
+                        ],
+                        [
+                            -75.627887,
+                            40.341942
+                        ],
+                        [
+                            -75.628154,
+                            40.342094
+                        ],
+                        [
+                            -75.631795,
+                            40.338338
+                        ],
+                        [
+                            -75.630619,
+                            40.341433
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "19545",
+                "county-code": "011",
+                "state": "PA",
+                "city": "New Berlinville"
+            }
+        }
+    ]
+}

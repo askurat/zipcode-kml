@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8195,
+                    33.624
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.735811,
+                            33.745
+                        ],
+                        [
+                            -90.735789,
+                            33.747334
+                        ],
+                        [
+                            -90.733717,
+                            33.747508
+                        ],
+                        [
+                            -90.733489,
+                            33.743672
+                        ],
+                        [
+                            -90.733431,
+                            33.742326
+                        ],
+                        [
+                            -90.738105,
+                            33.742955
+                        ],
+                        [
+                            -90.735811,
+                            33.745
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "38733",
+                "county-code": "011",
+                "state": "MS",
+                "city": "Cleveland"
+            }
+        }
+    ]
+}

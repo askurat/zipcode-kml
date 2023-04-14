@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1838,
+                    42.1582
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.184875,
+                            42.159411
+                        ],
+                        [
+                            -84.179172,
+                            42.158801
+                        ],
+                        [
+                            -84.179611,
+                            42.157174
+                        ],
+                        [
+                            -84.183915,
+                            42.157073
+                        ],
+                        [
+                            -84.18516,
+                            42.158231
+                        ],
+                        [
+                            -84.184875,
+                            42.159411
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "49263",
+                "county-code": "075",
+                "state": "MI",
+                "city": "Norvell"
+            }
+        }
+    ]
+}

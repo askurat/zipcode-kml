@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.9582,
+                    30.5502
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.95611,
+                            30.58233
+                        ],
+                        [
+                            -90.95336,
+                            30.58524
+                        ],
+                        [
+                            -90.952198,
+                            30.58104
+                        ],
+                        [
+                            -90.955833,
+                            30.580896
+                        ],
+                        [
+                            -90.956958,
+                            30.579808
+                        ],
+                        [
+                            -90.95611,
+                            30.58233
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "70786",
+                "county-code": "063",
+                "state": "LA",
+                "city": "Watson"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.1786,
+                    28.7397
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -98.21366,
+                            28.752863
+                        ],
+                        [
+                            -98.201486,
+                            28.762586
+                        ],
+                        [
+                            -98.179411,
+                            28.739673
+                        ],
+                        [
+                            -98.193084,
+                            28.729571
+                        ],
+                        [
+                            -98.213585,
+                            28.75103
+                        ],
+                        [
+                            -98.214619,
+                            28.752094
+                        ],
+                        [
+                            -98.21366,
+                            28.752863
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "78062",
+                "county-code": "013",
+                "state": "TX",
+                "city": "Peggy"
+            }
+        }
+    ]
+}

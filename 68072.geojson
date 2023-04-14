@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.5033,
+                    41.6102
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.507327,
+                            41.613566
+                        ],
+                        [
+                            -96.505732,
+                            41.61411
+                        ],
+                        [
+                            -96.50219,
+                            41.614086
+                        ],
+                        [
+                            -96.502211,
+                            41.605934
+                        ],
+                        [
+                            -96.507441,
+                            41.606725
+                        ],
+                        [
+                            -96.507327,
+                            41.613566
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "68072",
+                "county-code": "053",
+                "state": "NE",
+                "city": "Winslow"
+            }
+        }
+    ]
+}

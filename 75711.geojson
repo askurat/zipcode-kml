@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3011,
+                    32.3513
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.285506,
+                            32.337638
+                        ],
+                        [
+                            -95.282146,
+                            32.337654
+                        ],
+                        [
+                            -95.282129,
+                            32.336323
+                        ],
+                        [
+                            -95.285479,
+                            32.336294
+                        ],
+                        [
+                            -95.285506,
+                            32.337638
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "75711",
+                "county-code": "423",
+                "state": "TX",
+                "city": "Tyler"
+            }
+        }
+    ]
+}

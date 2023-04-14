@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.9858,
+                    37.1721
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -105.986988,
+                            37.177311
+                        ],
+                        [
+                            -105.982269,
+                            37.177381
+                        ],
+                        [
+                            -105.982523,
+                            37.166974
+                        ],
+                        [
+                            -105.989709,
+                            37.167087
+                        ],
+                        [
+                            -105.986988,
+                            37.177311
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "81148",
+                "county-code": "021",
+                "state": "CO",
+                "city": "Romeo"
+            }
+        }
+    ]
+}

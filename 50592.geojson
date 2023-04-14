@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.1853,
+                    42.7262
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.186421,
+                            42.732614
+                        ],
+                        [
+                            -95.180297,
+                            42.732699
+                        ],
+                        [
+                            -95.180286,
+                            42.727091
+                        ],
+                        [
+                            -95.180386,
+                            42.725815
+                        ],
+                        [
+                            -95.183684,
+                            42.725993
+                        ],
+                        [
+                            -95.186884,
+                            42.726031
+                        ],
+                        [
+                            -95.186421,
+                            42.732614
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50592",
+                "county-code": "021",
+                "state": "IA",
+                "city": "Truesdale"
+            }
+        }
+    ]
+}

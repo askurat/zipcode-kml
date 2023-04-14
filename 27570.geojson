@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.2367,
+                    36.4357
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.239241,
+                            36.440182
+                        ],
+                        [
+                            -78.235967,
+                            36.44169
+                        ],
+                        [
+                            -78.233347,
+                            36.436866
+                        ],
+                        [
+                            -78.235496,
+                            36.43635
+                        ],
+                        [
+                            -78.23696,
+                            36.43564
+                        ],
+                        [
+                            -78.239858,
+                            36.43941
+                        ],
+                        [
+                            -78.239241,
+                            36.440182
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "27570",
+                "county-code": "185",
+                "state": "NC",
+                "city": "Ridgeway"
+            }
+        }
+    ]
+}

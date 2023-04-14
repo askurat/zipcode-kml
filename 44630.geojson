@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.4001,
+                    40.9295
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.405279,
+                            40.927671
+                        ],
+                        [
+                            -81.402722,
+                            40.927492
+                        ],
+                        [
+                            -81.402911,
+                            40.926269
+                        ],
+                        [
+                            -81.405317,
+                            40.926317
+                        ],
+                        [
+                            -81.405279,
+                            40.927671
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "44630",
+                "county-code": "151",
+                "state": "OH",
+                "city": "Greentown"
+            }
+        }
+    ]
+}

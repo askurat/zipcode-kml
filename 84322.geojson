@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8966,
+                    41.6412
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.813862,
+                            41.759187
+                        ],
+                        [
+                            -111.811243,
+                            41.75913
+                        ],
+                        [
+                            -111.811286,
+                            41.757245
+                        ],
+                        [
+                            -111.813847,
+                            41.757324
+                        ],
+                        [
+                            -111.813862,
+                            41.759187
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "84322",
+                "county-code": "005",
+                "state": "UT",
+                "city": "Logan"
+            }
+        }
+    ]
+}

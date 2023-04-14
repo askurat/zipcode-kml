@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6843,
+                    43.286
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.629484,
+                            43.122955
+                        ],
+                        [
+                            -77.625133,
+                            43.124325
+                        ],
+                        [
+                            -77.621593,
+                            43.124542
+                        ],
+                        [
+                            -77.621401,
+                            43.121664
+                        ],
+                        [
+                            -77.624891,
+                            43.121541
+                        ],
+                        [
+                            -77.629101,
+                            43.121332
+                        ],
+                        [
+                            -77.629484,
+                            43.122955
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "14642",
+                "county-code": "055",
+                "state": "NY",
+                "city": "Rochester"
+            }
+        }
+    ]
+}

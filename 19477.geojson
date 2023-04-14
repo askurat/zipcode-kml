@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2327,
+                    40.1839
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.239544,
+                            40.183614
+                        ],
+                        [
+                            -75.236007,
+                            40.187223
+                        ],
+                        [
+                            -75.231229,
+                            40.183674
+                        ],
+                        [
+                            -75.233213,
+                            40.183602
+                        ],
+                        [
+                            -75.237491,
+                            40.182312
+                        ],
+                        [
+                            -75.239544,
+                            40.183614
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "19477",
+                "county-code": "091",
+                "state": "PA",
+                "city": "Spring House"
+            }
+        }
+    ]
+}

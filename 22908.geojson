@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4851,
+                    38.0401
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -78.496777,
+                            38.03082
+                        ],
+                        [
+                            -78.49655,
+                            38.031673
+                        ],
+                        [
+                            -78.495351,
+                            38.031453
+                        ],
+                        [
+                            -78.49565,
+                            38.030842
+                        ],
+                        [
+                            -78.49884,
+                            38.030139
+                        ],
+                        [
+                            -78.496777,
+                            38.03082
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "22908",
+                "county-code": "540",
+                "state": "VA",
+                "city": "Charlottesville"
+            }
+        }
+    ]
+}

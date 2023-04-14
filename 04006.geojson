@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.3414,
+                    43.4448
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -70.347053,
+                            43.445617
+                        ],
+                        [
+                            -70.340053,
+                            43.445877
+                        ],
+                        [
+                            -70.340518,
+                            43.443179
+                        ],
+                        [
+                            -70.343666,
+                            43.440275
+                        ],
+                        [
+                            -70.343492,
+                            43.441763
+                        ],
+                        [
+                            -70.345095,
+                            43.444838
+                        ],
+                        [
+                            -70.347053,
+                            43.445617
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "04006",
+                "county-code": "031",
+                "state": "ME",
+                "city": "Biddeford Pool"
+            }
+        }
+    ]
+}

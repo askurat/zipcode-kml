@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3827,
+                    40.7634
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.382928,
+                            40.76388
+                        ],
+                        [
+                            -76.375001,
+                            40.764629
+                        ],
+                        [
+                            -76.376887,
+                            40.761825
+                        ],
+                        [
+                            -76.375923,
+                            40.759126
+                        ],
+                        [
+                            -76.382448,
+                            40.758437
+                        ],
+                        [
+                            -76.382775,
+                            40.762642
+                        ],
+                        [
+                            -76.384042,
+                            40.763408
+                        ],
+                        [
+                            -76.382928,
+                            40.76388
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "17943",
+                "county-code": "107",
+                "state": "PA",
+                "city": "Lavelle"
+            }
+        }
+    ]
+}

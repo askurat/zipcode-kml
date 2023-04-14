@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2833,
+                    41.7332
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.252391,
+                            41.703635
+                        ],
+                        [
+                            -86.251179,
+                            41.703558
+                        ],
+                        [
+                            -86.250802,
+                            41.703178
+                        ],
+                        [
+                            -86.250851,
+                            41.701616
+                        ],
+                        [
+                            -86.252376,
+                            41.701354
+                        ],
+                        [
+                            -86.252391,
+                            41.703635
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46624",
+                "county-code": "141",
+                "state": "IN",
+                "city": "South Bend"
+            }
+        }
+    ]
+}

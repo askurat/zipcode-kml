@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.4569,
+                    42.4555
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.465497,
+                            42.46363
+                        ],
+                        [
+                            -94.455734,
+                            42.463633
+                        ],
+                        [
+                            -94.455788,
+                            42.456378
+                        ],
+                        [
+                            -94.455924,
+                            42.449069
+                        ],
+                        [
+                            -94.465624,
+                            42.449144
+                        ],
+                        [
+                            -94.465497,
+                            42.46363
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50552",
+                "county-code": "025",
+                "state": "IA",
+                "city": "Knierim"
+            }
+        }
+    ]
+}

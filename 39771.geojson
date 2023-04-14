@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2752,
+                    33.607
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.287497,
+                            33.609794
+                        ],
+                        [
+                            -89.287295,
+                            33.613994
+                        ],
+                        [
+                            -89.270236,
+                            33.614024
+                        ],
+                        [
+                            -89.269902,
+                            33.605249
+                        ],
+                        [
+                            -89.269715,
+                            33.600184
+                        ],
+                        [
+                            -89.283211,
+                            33.599785
+                        ],
+                        [
+                            -89.287328,
+                            33.599843
+                        ],
+                        [
+                            -89.287497,
+                            33.609794
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "39771",
+                "county-code": "155",
+                "state": "MS",
+                "city": "Walthall"
+            }
+        }
+    ]
+}

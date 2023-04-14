@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.1562,
+                    32.4148
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -111.157294,
+                            32.417237
+                        ],
+                        [
+                            -111.154745,
+                            32.417228
+                        ],
+                        [
+                            -111.154526,
+                            32.417259
+                        ],
+                        [
+                            -111.150161,
+                            32.413879
+                        ],
+                        [
+                            -111.157325,
+                            32.413796
+                        ],
+                        [
+                            -111.157294,
+                            32.417237
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "85654",
+                "county-code": "019",
+                "state": "AZ",
+                "city": "Rillito"
+            }
+        }
+    ]
+}

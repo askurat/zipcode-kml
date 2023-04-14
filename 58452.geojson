@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.2382,
+                    47.5422
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -98.243841,
+                            47.543854
+                        ],
+                        [
+                            -98.21991,
+                            47.543677
+                        ],
+                        [
+                            -98.219943,
+                            47.53329
+                        ],
+                        [
+                            -98.243823,
+                            47.541972
+                        ],
+                        [
+                            -98.243841,
+                            47.543854
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "58452",
+                "county-code": "039",
+                "state": "ND",
+                "city": "Jessie"
+            }
+        }
+    ]
+}

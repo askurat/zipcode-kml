@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6595,
+                    39.7114
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.653546,
+                            39.719237
+                        ],
+                        [
+                            -76.64859,
+                            39.712447
+                        ],
+                        [
+                            -76.651461,
+                            39.711062
+                        ],
+                        [
+                            -76.655822,
+                            39.718428
+                        ],
+                        [
+                            -76.653546,
+                            39.719237
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "21105",
+                "county-code": "005",
+                "state": "MD",
+                "city": "Maryland Line"
+            }
+        }
+    ]
+}

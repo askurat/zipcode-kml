@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1378,
+                    40.6683
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.166186,
+                            40.66425
+                        ],
+                        [
+                            -86.158134,
+                            40.664254
+                        ],
+                        [
+                            -86.157102,
+                            40.661818
+                        ],
+                        [
+                            -86.157044,
+                            40.657768
+                        ],
+                        [
+                            -86.156348,
+                            40.657253
+                        ],
+                        [
+                            -86.158009,
+                            40.6571
+                        ],
+                        [
+                            -86.166041,
+                            40.657007
+                        ],
+                        [
+                            -86.166186,
+                            40.66425
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46971",
+                "county-code": "103",
+                "state": "IN",
+                "city": "Grissom Arb"
+            }
+        }
+    ]
+}

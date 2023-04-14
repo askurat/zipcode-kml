@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.5869,
+                    44.6245
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -69.590972,
+                            44.627674
+                        ],
+                        [
+                            -69.586859,
+                            44.627491
+                        ],
+                        [
+                            -69.586016,
+                            44.626188
+                        ],
+                        [
+                            -69.587379,
+                            44.623569
+                        ],
+                        [
+                            -69.588963,
+                            44.621752
+                        ],
+                        [
+                            -69.589583,
+                            44.624832
+                        ],
+                        [
+                            -69.590972,
+                            44.627674
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "04975",
+                "county-code": "025",
+                "state": "ME",
+                "city": "Shawmut"
+            }
+        }
+    ]
+}

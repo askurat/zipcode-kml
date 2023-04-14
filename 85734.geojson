@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9353,
+                    32.0651
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -110.875741,
+                            32.075727
+                        ],
+                        [
+                            -110.874908,
+                            32.07573
+                        ],
+                        [
+                            -110.857976,
+                            32.075671
+                        ],
+                        [
+                            -110.858641,
+                            32.068904
+                        ],
+                        [
+                            -110.858697,
+                            32.05934
+                        ],
+                        [
+                            -110.875962,
+                            32.059561
+                        ],
+                        [
+                            -110.875741,
+                            32.075727
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "85734",
+                "county-code": "019",
+                "state": "AZ",
+                "city": "Tucson"
+            }
+        }
+    ]
+}

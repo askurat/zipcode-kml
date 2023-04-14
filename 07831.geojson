@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.9448,
+                    40.7394
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.947523,
+                            40.743145
+                        ],
+                        [
+                            -74.947482,
+                            40.745261
+                        ],
+                        [
+                            -74.944209,
+                            40.738243
+                        ],
+                        [
+                            -74.941318,
+                            40.738652
+                        ],
+                        [
+                            -74.946657,
+                            40.734722
+                        ],
+                        [
+                            -74.950608,
+                            40.739817
+                        ],
+                        [
+                            -74.947523,
+                            40.743145
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "07831",
+                "county-code": "041",
+                "state": "NJ",
+                "city": "Changewater"
+            }
+        }
+    ]
+}

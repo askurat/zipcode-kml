@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.6922,
+                    39.2639
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -103.695714,
+                            39.222586
+                        ],
+                        [
+                            -103.686962,
+                            39.222442
+                        ],
+                        [
+                            -103.686819,
+                            39.214928
+                        ],
+                        [
+                            -103.69567,
+                            39.215047
+                        ],
+                        [
+                            -103.695714,
+                            39.222586
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "80826",
+                "county-code": "073",
+                "state": "CO",
+                "city": "Limon"
+            }
+        }
+    ]
+}

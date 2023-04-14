@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1616,
+                    39.9598
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.161772,
+                            39.960421
+                        ],
+                        [
+                            -75.159698,
+                            39.960156
+                        ],
+                        [
+                            -75.159884,
+                            39.959312
+                        ],
+                        [
+                            -75.161959,
+                            39.959571
+                        ],
+                        [
+                            -75.161772,
+                            39.960421
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "19108",
+                "county-code": "101",
+                "state": "PA",
+                "city": "Philadelphia"
+            }
+        }
+    ]
+}

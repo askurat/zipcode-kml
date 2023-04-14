@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.7565,
+                    36.8283
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.783525,
+                            36.823195
+                        ],
+                        [
+                            -89.780957,
+                            36.822735
+                        ],
+                        [
+                            -89.780948,
+                            36.821365
+                        ],
+                        [
+                            -89.782213,
+                            36.821436
+                        ],
+                        [
+                            -89.783419,
+                            36.822265
+                        ],
+                        [
+                            -89.783525,
+                            36.823195
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "63850",
+                "county-code": "207",
+                "state": "MO",
+                "city": "Grayridge"
+            }
+        }
+    ]
+}

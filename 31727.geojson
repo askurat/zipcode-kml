@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.5037,
+                    31.4417
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.391126,
+                            31.41878
+                        ],
+                        [
+                            -83.389869,
+                            31.418598
+                        ],
+                        [
+                            -83.384535,
+                            31.41841
+                        ],
+                        [
+                            -83.3846,
+                            31.41638
+                        ],
+                        [
+                            -83.391345,
+                            31.417972
+                        ],
+                        [
+                            -83.391126,
+                            31.41878
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "31727",
+                "county-code": "277",
+                "state": "GA",
+                "city": "Brookfield"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.1928,
+                    44.6159
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -70.193596,
+                            44.616628
+                        ],
+                        [
+                            -70.192763,
+                            44.616695
+                        ],
+                        [
+                            -70.192695,
+                            44.616645
+                        ],
+                        [
+                            -70.192718,
+                            44.615858
+                        ],
+                        [
+                            -70.193554,
+                            44.615923
+                        ],
+                        [
+                            -70.195206,
+                            44.616026
+                        ],
+                        [
+                            -70.193596,
+                            44.616628
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "04234",
+                "county-code": "007",
+                "state": "ME",
+                "city": "East Wilton"
+            }
+        }
+    ]
+}

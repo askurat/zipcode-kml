@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.7129,
+                    32.0028
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.718899,
+                            32.012878
+                        ],
+                        [
+                            -94.717682,
+                            32.012112
+                        ],
+                        [
+                            -94.71393,
+                            32.011012
+                        ],
+                        [
+                            -94.718175,
+                            32.006277
+                        ],
+                        [
+                            -94.722446,
+                            32.013443
+                        ],
+                        [
+                            -94.718899,
+                            32.012878
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "75680",
+                "county-code": "401",
+                "state": "TX",
+                "city": "Minden"
+            }
+        }
+    ]
+}

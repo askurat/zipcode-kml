@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.1784,
+                    41.3363
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.25261,
+                            41.268392
+                        ],
+                        [
+                            -92.242986,
+                            41.268439
+                        ],
+                        [
+                            -92.242991,
+                            41.264818
+                        ],
+                        [
+                            -92.247442,
+                            41.264807
+                        ],
+                        [
+                            -92.247687,
+                            41.263759
+                        ],
+                        [
+                            -92.247775,
+                            41.261173
+                        ],
+                        [
+                            -92.252553,
+                            41.261156
+                        ],
+                        [
+                            -92.25261,
+                            41.268392
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "52562",
+                "county-code": "107",
+                "state": "IA",
+                "city": "Hayesville"
+            }
+        }
+    ]
+}

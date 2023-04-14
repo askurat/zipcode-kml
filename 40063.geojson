@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.3551,
+                    37.5795
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.345695,
+                            37.57105
+                        ],
+                        [
+                            -85.345343,
+                            37.572691
+                        ],
+                        [
+                            -85.340282,
+                            37.572136
+                        ],
+                        [
+                            -85.34171,
+                            37.568254
+                        ],
+                        [
+                            -85.34617,
+                            37.568837
+                        ],
+                        [
+                            -85.345695,
+                            37.57105
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "40063",
+                "county-code": "155",
+                "state": "KY",
+                "city": "Saint Mary"
+            }
+        }
+    ]
+}

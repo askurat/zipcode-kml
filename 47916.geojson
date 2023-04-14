@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.0554,
+                    39.9836
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.057795,
+                            39.985137
+                        ],
+                        [
+                            -87.053823,
+                            39.985089
+                        ],
+                        [
+                            -87.052644,
+                            39.985073
+                        ],
+                        [
+                            -87.052756,
+                            39.981731
+                        ],
+                        [
+                            -87.057738,
+                            39.981741
+                        ],
+                        [
+                            -87.057795,
+                            39.985137
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47916",
+                "county-code": "107",
+                "state": "IN",
+                "city": "Alamo"
+            }
+        }
+    ]
+}

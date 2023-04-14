@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.6059,
+                    46.2652
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.885793,
+                            46.22521
+                        ],
+                        [
+                            -96.866115,
+                            46.225451
+                        ],
+                        [
+                            -96.866169,
+                            46.210965
+                        ],
+                        [
+                            -96.886018,
+                            46.21071
+                        ],
+                        [
+                            -96.885793,
+                            46.22521
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "58074",
+                "county-code": "077",
+                "state": "ND",
+                "city": "Wahpeton"
+            }
+        }
+    ]
+}

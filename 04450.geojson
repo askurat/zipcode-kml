@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.9342,
+                    44.9183
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -68.979025,
+                            44.938038
+                        ],
+                        [
+                            -68.935375,
+                            44.9439
+                        ],
+                        [
+                            -68.893331,
+                            44.949518
+                        ],
+                        [
+                            -68.878442,
+                            44.892916
+                        ],
+                        [
+                            -68.920444,
+                            44.884225
+                        ],
+                        [
+                            -68.922149,
+                            44.890132
+                        ],
+                        [
+                            -68.964472,
+                            44.884396
+                        ],
+                        [
+                            -68.979025,
+                            44.938038
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "04450",
+                "county-code": "019",
+                "state": "ME",
+                "city": "Kenduskeag"
+            }
+        }
+    ]
+}

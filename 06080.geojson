@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6506,
+                    41.9818
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -72.640936,
+                            41.952816
+                        ],
+                        [
+                            -72.634087,
+                            41.952591
+                        ],
+                        [
+                            -72.628113,
+                            41.948839
+                        ],
+                        [
+                            -72.628319,
+                            41.947823
+                        ],
+                        [
+                            -72.63649,
+                            41.949248
+                        ],
+                        [
+                            -72.63869,
+                            41.948162
+                        ],
+                        [
+                            -72.640462,
+                            41.950721
+                        ],
+                        [
+                            -72.640936,
+                            41.952816
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "06080",
+                "county-code": "003",
+                "state": "CT",
+                "city": "Suffield"
+            }
+        }
+    ]
+}

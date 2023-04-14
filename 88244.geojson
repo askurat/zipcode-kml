@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.136,
+                    32.7026
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -103.226991,
+                            32.765767
+                        ],
+                        [
+                            -103.222891,
+                            32.76579
+                        ],
+                        [
+                            -103.223071,
+                            32.76406
+                        ],
+                        [
+                            -103.223052,
+                            32.762399
+                        ],
+                        [
+                            -103.226924,
+                            32.762461
+                        ],
+                        [
+                            -103.226991,
+                            32.765767
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "88244",
+                "county-code": "025",
+                "state": "NM",
+                "city": "Hobbs"
+            }
+        }
+    ]
+}

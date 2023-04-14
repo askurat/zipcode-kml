@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9207,
+                    35.9606
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.916752,
+                            35.962627
+                        ],
+                        [
+                            -83.915685,
+                            35.963029
+                        ],
+                        [
+                            -83.915192,
+                            35.962165
+                        ],
+                        [
+                            -83.915271,
+                            35.96215
+                        ],
+                        [
+                            -83.916231,
+                            35.961785
+                        ],
+                        [
+                            -83.916752,
+                            35.962627
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "37929",
+                "county-code": "093",
+                "state": "TN",
+                "city": "Knoxville"
+            }
+        }
+    ]
+}

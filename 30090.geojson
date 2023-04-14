@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5471,
+                    33.9525
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.548992,
+                            33.954598
+                        ],
+                        [
+                            -84.548046,
+                            33.953227
+                        ],
+                        [
+                            -84.547032,
+                            33.952203
+                        ],
+                        [
+                            -84.54803,
+                            33.952264
+                        ],
+                        [
+                            -84.548994,
+                            33.952293
+                        ],
+                        [
+                            -84.548992,
+                            33.954598
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "30090",
+                "county-code": "067",
+                "state": "GA",
+                "city": "Marietta"
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0364,
+                    38.8951
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.998981,
+                            38.87275
+                        ],
+                        [
+                            -76.997744,
+                            38.872873
+                        ],
+                        [
+                            -76.993777,
+                            38.873763
+                        ],
+                        [
+                            -76.991293,
+                            38.873298
+                        ],
+                        [
+                            -76.990931,
+                            38.87248
+                        ],
+                        [
+                            -76.990102,
+                            38.871349
+                        ],
+                        [
+                            -76.99246,
+                            38.870129
+                        ],
+                        [
+                            -76.999542,
+                            38.870485
+                        ],
+                        [
+                            -76.998981,
+                            38.87275
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "20388",
+                "county-code": "001",
+                "state": "DC",
+                "city": "Washington Navy Yard"
+            }
+        }
+    ]
+}

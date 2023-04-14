@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5382,
+                    39.1668
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.505137,
+                            39.139709
+                        ],
+                        [
+                            -84.502198,
+                            39.139573
+                        ],
+                        [
+                            -84.500652,
+                            39.138641
+                        ],
+                        [
+                            -84.500666,
+                            39.13853
+                        ],
+                        [
+                            -84.500867,
+                            39.136617
+                        ],
+                        [
+                            -84.50544,
+                            39.136908
+                        ],
+                        [
+                            -84.505137,
+                            39.139709
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45267",
+                "county-code": "061",
+                "state": "OH",
+                "city": "Cincinnati"
+            }
+        }
+    ]
+}

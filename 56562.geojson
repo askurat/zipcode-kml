@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7695,
+                    46.8739
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.772465,
+                            46.866178
+                        ],
+                        [
+                            -96.770934,
+                            46.867219
+                        ],
+                        [
+                            -96.769412,
+                            46.867221
+                        ],
+                        [
+                            -96.76805,
+                            46.867217
+                        ],
+                        [
+                            -96.768084,
+                            46.864071
+                        ],
+                        [
+                            -96.76808,
+                            46.862106
+                        ],
+                        [
+                            -96.772499,
+                            46.862097
+                        ],
+                        [
+                            -96.772465,
+                            46.866178
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "56562",
+                "county-code": "027",
+                "state": "MN",
+                "city": "Moorhead"
+            }
+        }
+    ]
+}

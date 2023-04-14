@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3997,
+                    25.5021
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.400459,
+                            25.49976
+                        ],
+                        [
+                            -80.396126,
+                            25.499807
+                        ],
+                        [
+                            -80.396031,
+                            25.49612
+                        ],
+                        [
+                            -80.400087,
+                            25.496089
+                        ],
+                        [
+                            -80.400459,
+                            25.49976
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "33039",
+                "county-code": "086",
+                "state": "FL",
+                "city": "Homestead"
+            }
+        }
+    ]
+}

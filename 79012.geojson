@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.0978,
+                    35.2664
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -102.115029,
+                            35.131139
+                        ],
+                        [
+                            -102.099396,
+                            35.13241
+                        ],
+                        [
+                            -102.099509,
+                            35.102182
+                        ],
+                        [
+                            -102.115125,
+                            35.102291
+                        ],
+                        [
+                            -102.115029,
+                            35.131139
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "79012",
+                "county-code": "375",
+                "state": "TX",
+                "city": "Bushland"
+            }
+        }
+    ]
+}

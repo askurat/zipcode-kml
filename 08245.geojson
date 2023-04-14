@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8487,
+                    39.1
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.82,
+                            39.176213
+                        ],
+                        [
+                            -74.82022,
+                            39.180068
+                        ],
+                        [
+                            -74.819931,
+                            39.180012
+                        ],
+                        [
+                            -74.818156,
+                            39.178795
+                        ],
+                        [
+                            -74.817977,
+                            39.178639
+                        ],
+                        [
+                            -74.817641,
+                            39.173638
+                        ],
+                        [
+                            -74.820374,
+                            39.173881
+                        ],
+                        [
+                            -74.82,
+                            39.176213
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "08245",
+                "county-code": "009",
+                "state": "NJ",
+                "city": "South Dennis"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9332,
+                    37.2784
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.936214,
+                            37.276556
+                        ],
+                        [
+                            -79.93443,
+                            37.278552
+                        ],
+                        [
+                            -79.932497,
+                            37.278512
+                        ],
+                        [
+                            -79.932577,
+                            37.276779
+                        ],
+                        [
+                            -79.93399,
+                            37.275445
+                        ],
+                        [
+                            -79.93588,
+                            37.275104
+                        ],
+                        [
+                            -79.936214,
+                            37.276556
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "24022",
+                "county-code": "770",
+                "state": "VA",
+                "city": "Roanoke"
+            }
+        }
+    ]
+}

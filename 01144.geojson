@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5915,
+                    42.1018
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -72.591993,
+                            42.103281
+                        ],
+                        [
+                            -72.588654,
+                            42.101777
+                        ],
+                        [
+                            -72.589351,
+                            42.10115
+                        ],
+                        [
+                            -72.590197,
+                            42.100404
+                        ],
+                        [
+                            -72.593136,
+                            42.102291
+                        ],
+                        [
+                            -72.591993,
+                            42.103281
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "01144",
+                "county-code": "013",
+                "state": "MA",
+                "city": "Springfield"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.3265,
+                    30.2642
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.218983,
+                            30.231679
+                        ],
+                        [
+                            -93.218311,
+                            30.231689
+                        ],
+                        [
+                            -93.218286,
+                            30.230466
+                        ],
+                        [
+                            -93.21898,
+                            30.230463
+                        ],
+                        [
+                            -93.218983,
+                            30.231679
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "70629",
+                "county-code": "019",
+                "state": "LA",
+                "city": "Lake Charles"
+            }
+        }
+    ]
+}

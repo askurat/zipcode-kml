@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7188,
+                    44.0342
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.719996,
+                            44.035142
+                        ],
+                        [
+                            -75.718839,
+                            44.034051
+                        ],
+                        [
+                            -75.714742,
+                            44.032268
+                        ],
+                        [
+                            -75.716833,
+                            44.029084
+                        ],
+                        [
+                            -75.717338,
+                            44.029474
+                        ],
+                        [
+                            -75.71932,
+                            44.033896
+                        ],
+                        [
+                            -75.720571,
+                            44.033332
+                        ],
+                        [
+                            -75.719996,
+                            44.035142
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "13643",
+                "county-code": "045",
+                "state": "NY",
+                "city": "Great Bend"
+            }
+        }
+    ]
+}

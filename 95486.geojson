@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0242,
+                    38.4741
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -123.026098,
+                            38.472153
+                        ],
+                        [
+                            -123.024543,
+                            38.475637
+                        ],
+                        [
+                            -123.021113,
+                            38.473456
+                        ],
+                        [
+                            -123.023355,
+                            38.473808
+                        ],
+                        [
+                            -123.025093,
+                            38.473057
+                        ],
+                        [
+                            -123.026098,
+                            38.472153
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "95486",
+                "county-code": "097",
+                "state": "CA",
+                "city": "Villa Grande"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.6824,
+                    42.29
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.684016,
+                            42.29291
+                        ],
+                        [
+                            -91.682581,
+                            42.29295
+                        ],
+                        [
+                            -91.682537,
+                            42.291094
+                        ],
+                        [
+                            -91.683731,
+                            42.291074
+                        ],
+                        [
+                            -91.683881,
+                            42.291099
+                        ],
+                        [
+                            -91.684016,
+                            42.29291
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "52344",
+                "county-code": "113",
+                "state": "IA",
+                "city": "Troy Mills"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.5064,
+                    34.7437
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -102.515809,
+                            34.73645
+                        ],
+                        [
+                            -102.512961,
+                            34.73791
+                        ],
+                        [
+                            -102.51291,
+                            34.742126
+                        ],
+                        [
+                            -102.507879,
+                            34.742168
+                        ],
+                        [
+                            -102.501749,
+                            34.742167
+                        ],
+                        [
+                            -102.500506,
+                            34.742841
+                        ],
+                        [
+                            -102.513004,
+                            34.735764
+                        ],
+                        [
+                            -102.515809,
+                            34.73645
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "79085",
+                "county-code": "069",
+                "state": "TX",
+                "city": "Summerfield"
+            }
+        }
+    ]
+}

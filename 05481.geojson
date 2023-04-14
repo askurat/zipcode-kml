@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.1393,
+                    44.8078
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -73.139996,
+                            44.808725
+                        ],
+                        [
+                            -73.139593,
+                            44.809065
+                        ],
+                        [
+                            -73.139261,
+                            44.808848
+                        ],
+                        [
+                            -73.138699,
+                            44.808586
+                        ],
+                        [
+                            -73.139541,
+                            44.807597
+                        ],
+                        [
+                            -73.139946,
+                            44.807792
+                        ],
+                        [
+                            -73.140469,
+                            44.808128
+                        ],
+                        [
+                            -73.139996,
+                            44.808725
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "05481",
+                "county-code": "011",
+                "state": "VT",
+                "city": "Saint Albans Bay"
+            }
+        }
+    ]
+}

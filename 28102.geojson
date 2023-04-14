@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.9776,
+                    34.8136
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.984721,
+                            34.821989
+                        ],
+                        [
+                            -79.976365,
+                            34.822027
+                        ],
+                        [
+                            -79.968011,
+                            34.821765
+                        ],
+                        [
+                            -79.968566,
+                            34.81082
+                        ],
+                        [
+                            -79.9689163441652,
+                            34.8074531963694
+                        ],
+                        [
+                            -79.9850928478045,
+                            34.8078050186309
+                        ],
+                        [
+                            -79.984721,
+                            34.821989
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "28102",
+                "county-code": "007",
+                "state": "NC",
+                "city": "Mc Farlan"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0248,
+                    40.4344
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.938535,
+                            40.348913
+                        ],
+                        [
+                            -79.930533,
+                            40.34984
+                        ],
+                        [
+                            -79.92961,
+                            40.347902
+                        ],
+                        [
+                            -79.938394,
+                            40.346594
+                        ],
+                        [
+                            -79.938494,
+                            40.343805
+                        ],
+                        [
+                            -79.939066,
+                            40.348265
+                        ],
+                        [
+                            -79.938535,
+                            40.348913
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "15123",
+                "county-code": "003",
+                "state": "PA",
+                "city": "West Mifflin"
+            }
+        }
+    ]
+}

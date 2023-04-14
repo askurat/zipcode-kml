@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6439,
+                    37.641
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -87.647779,
+                            37.642123
+                        ],
+                        [
+                            -87.644177,
+                            37.642275
+                        ],
+                        [
+                            -87.644393,
+                            37.64043
+                        ],
+                        [
+                            -87.645151,
+                            37.640473
+                        ],
+                        [
+                            -87.647779,
+                            37.642123
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "42444",
+                "county-code": "233",
+                "state": "KY",
+                "city": "Poole"
+            }
+        }
+    ]
+}

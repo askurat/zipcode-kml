@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.3632,
+                    41.5686
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.368477,
+                            41.574142
+                        ],
+                        [
+                            -83.36815,
+                            41.579696
+                        ],
+                        [
+                            -83.368176,
+                            41.582153
+                        ],
+                        [
+                            -83.361689,
+                            41.58046
+                        ],
+                        [
+                            -83.358521,
+                            41.581248
+                        ],
+                        [
+                            -83.358565,
+                            41.562513
+                        ],
+                        [
+                            -83.368419,
+                            41.562463
+                        ],
+                        [
+                            -83.368477,
+                            41.574142
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "43408",
+                "county-code": "123",
+                "state": "OH",
+                "city": "Clay Center"
+            }
+        }
+    ]
+}

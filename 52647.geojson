@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5449,
+                    41.1342
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -91.550014,
+                            41.134637
+                        ],
+                        [
+                            -91.549712,
+                            41.138351
+                        ],
+                        [
+                            -91.54024,
+                            41.13832
+                        ],
+                        [
+                            -91.540289,
+                            41.130029
+                        ],
+                        [
+                            -91.549713,
+                            41.130092
+                        ],
+                        [
+                            -91.550014,
+                            41.134637
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "52647",
+                "county-code": "087",
+                "state": "IA",
+                "city": "Olds"
+            }
+        }
+    ]
+}

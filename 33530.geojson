@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.1767,
+                    27.9068
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.175657,
+                            27.907449
+                        ],
+                        [
+                            -82.170469,
+                            27.910894
+                        ],
+                        [
+                            -82.170442,
+                            27.90527
+                        ],
+                        [
+                            -82.175072,
+                            27.906597
+                        ],
+                        [
+                            -82.175764,
+                            27.907275
+                        ],
+                        [
+                            -82.175657,
+                            27.907449
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "33530",
+                "county-code": "057",
+                "state": "FL",
+                "city": "Durant"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.9122,
+                    41.522
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.921286,
+                            41.525463
+                        ],
+                        [
+                            -89.906933,
+                            41.525473
+                        ],
+                        [
+                            -89.906655,
+                            41.51822
+                        ],
+                        [
+                            -89.910264,
+                            41.518228
+                        ],
+                        [
+                            -89.920993,
+                            41.518227
+                        ],
+                        [
+                            -89.921125,
+                            41.521835
+                        ],
+                        [
+                            -89.921286,
+                            41.525463
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "61258",
+                "county-code": "073",
+                "state": "IL",
+                "city": "Hooppole"
+            }
+        }
+    ]
+}

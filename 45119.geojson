@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.0087,
+                    38.8806
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.001155,
+                            38.877907
+                        ],
+                        [
+                            -83.999685,
+                            38.878896
+                        ],
+                        [
+                            -83.998002,
+                            38.878948
+                        ],
+                        [
+                            -83.997468,
+                            38.878252
+                        ],
+                        [
+                            -83.999014,
+                            38.877229
+                        ],
+                        [
+                            -84.000482,
+                            38.877323
+                        ],
+                        [
+                            -84.001155,
+                            38.877907
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45119",
+                "county-code": "015",
+                "state": "OH",
+                "city": "Feesburg"
+            }
+        }
+    ]
+}

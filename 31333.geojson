@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6208,
+                    31.7705
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.632042,
+                            31.769134
+                        ],
+                        [
+                            -81.6271,
+                            31.769104
+                        ],
+                        [
+                            -81.625245,
+                            31.769159
+                        ],
+                        [
+                            -81.623806,
+                            31.765575
+                        ],
+                        [
+                            -81.627115,
+                            31.766586
+                        ],
+                        [
+                            -81.632171,
+                            31.768254
+                        ],
+                        [
+                            -81.632042,
+                            31.769134
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "31333",
+                "county-code": "179",
+                "state": "GA",
+                "city": "Walthourville"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.9464,
+                    39.2564
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -119.939585,
+                            39.241519
+                        ],
+                        [
+                            -119.938204,
+                            39.242417
+                        ],
+                        [
+                            -119.9371,
+                            39.241271
+                        ],
+                        [
+                            -119.938101,
+                            39.240369
+                        ],
+                        [
+                            -119.938266,
+                            39.240358
+                        ],
+                        [
+                            -119.938687,
+                            39.240544
+                        ],
+                        [
+                            -119.939585,
+                            39.241519
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "89450",
+                "county-code": "031",
+                "state": "NV",
+                "city": "Incline Village"
+            }
+        }
+    ]
+}

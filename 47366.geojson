@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.263,
+                    39.8634
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.263814,
+                            39.863638
+                        ],
+                        [
+                            -85.262651,
+                            39.863372
+                        ],
+                        [
+                            -85.258128,
+                            39.863705
+                        ],
+                        [
+                            -85.258149,
+                            39.860727
+                        ],
+                        [
+                            -85.258109,
+                            39.857845
+                        ],
+                        [
+                            -85.263845,
+                            39.860428
+                        ],
+                        [
+                            -85.263814,
+                            39.863638
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47366",
+                "county-code": "065",
+                "state": "IN",
+                "city": "New Lisbon"
+            }
+        }
+    ]
+}

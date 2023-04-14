@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2054,
+                    37.7833
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.208312,
+                            37.78507
+                        ],
+                        [
+                            -97.199022,
+                            37.785106
+                        ],
+                        [
+                            -97.199074,
+                            37.781484
+                        ],
+                        [
+                            -97.208019,
+                            37.78133
+                        ],
+                        [
+                            -97.208285,
+                            37.781453
+                        ],
+                        [
+                            -97.208312,
+                            37.78507
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "67055",
+                "county-code": "173",
+                "state": "KS",
+                "city": "Greenwich"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.1436,
+                    42.0387
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -94.144875,
+                            42.041889
+                        ],
+                        [
+                            -94.135134,
+                            42.041865
+                        ],
+                        [
+                            -94.13513,
+                            42.035892
+                        ],
+                        [
+                            -94.14481,
+                            42.035574
+                        ],
+                        [
+                            -94.144875,
+                            42.041889
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50031",
+                "county-code": "015",
+                "state": "IA",
+                "city": "Beaver"
+            }
+        }
+    ]
+}

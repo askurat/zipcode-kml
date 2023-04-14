@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0851,
+                    42.1292
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.086444,
+                            42.133801
+                        ],
+                        [
+                            -80.084086,
+                            42.134716
+                        ],
+                        [
+                            -80.083453,
+                            42.133747
+                        ],
+                        [
+                            -80.085543,
+                            42.132973
+                        ],
+                        [
+                            -80.085826,
+                            42.132836
+                        ],
+                        [
+                            -80.086444,
+                            42.133801
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "16550",
+                "county-code": "049",
+                "state": "PA",
+                "city": "Erie"
+            }
+        }
+    ]
+}

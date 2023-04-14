@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5852,
+                    40.2776
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.58632,
+                            40.278537
+                        ],
+                        [
+                            -76.582546,
+                            40.278789
+                        ],
+                        [
+                            -76.58258,
+                            40.278221
+                        ],
+                        [
+                            -76.579668,
+                            40.278321
+                        ],
+                        [
+                            -76.579625,
+                            40.27785
+                        ],
+                        [
+                            -76.583353,
+                            40.277589
+                        ],
+                        [
+                            -76.585308,
+                            40.277372
+                        ],
+                        [
+                            -76.58632,
+                            40.278537
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "17010",
+                "county-code": "075",
+                "state": "PA",
+                "city": "Campbelltown"
+            }
+        }
+    ]
+}

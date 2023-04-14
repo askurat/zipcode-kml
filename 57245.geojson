@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9174,
+                    44.8923
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.92347,
+                            44.897236
+                        ],
+                        [
+                            -96.913233,
+                            44.897238
+                        ],
+                        [
+                            -96.913273,
+                            44.890052
+                        ],
+                        [
+                            -96.914963,
+                            44.890045
+                        ],
+                        [
+                            -96.923448,
+                            44.890092
+                        ],
+                        [
+                            -96.92347,
+                            44.897236
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "57245",
+                "county-code": "029",
+                "state": "SD",
+                "city": "Kranzburg"
+            }
+        }
+    ]
+}

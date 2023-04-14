@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9089,
+                    33.2377
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.897442,
+                            33.280802
+                        ],
+                        [
+                            -95.886988,
+                            33.280579
+                        ],
+                        [
+                            -95.886988,
+                            33.277787
+                        ],
+                        [
+                            -95.894933,
+                            33.27504
+                        ],
+                        [
+                            -95.895577,
+                            33.274774
+                        ],
+                        [
+                            -95.895997,
+                            33.277023
+                        ],
+                        [
+                            -95.897521,
+                            33.280802
+                        ],
+                        [
+                            -95.897442,
+                            33.280802
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "75429",
+                "county-code": "231",
+                "state": "TX",
+                "city": "Commerce"
+            }
+        }
+    ]
+}

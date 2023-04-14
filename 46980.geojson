@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7405,
+                    40.9567
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.743063,
+                            40.957355
+                        ],
+                        [
+                            -85.740589,
+                            40.957402
+                        ],
+                        [
+                            -85.73929,
+                            40.955516
+                        ],
+                        [
+                            -85.740535,
+                            40.955501
+                        ],
+                        [
+                            -85.740495,
+                            40.95455
+                        ],
+                        [
+                            -85.742985,
+                            40.954511
+                        ],
+                        [
+                            -85.743063,
+                            40.957355
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46980",
+                "county-code": "169",
+                "state": "IN",
+                "city": "Servia"
+            }
+        }
+    ]
+}

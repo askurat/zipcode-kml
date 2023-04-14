@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.0054,
+                    40.9002
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.008948,
+                            40.901484
+                        ],
+                        [
+                            -76.004619,
+                            40.902988
+                        ],
+                        [
+                            -75.999892,
+                            40.903752
+                        ],
+                        [
+                            -76.000653,
+                            40.902398
+                        ],
+                        [
+                            -76.001013,
+                            40.899615
+                        ],
+                        [
+                            -76.003209,
+                            40.89791
+                        ],
+                        [
+                            -76.008327,
+                            40.898488
+                        ],
+                        [
+                            -76.008948,
+                            40.901484
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "18231",
+                "county-code": "107",
+                "state": "PA",
+                "city": "Kelayres"
+            }
+        }
+    ]
+}

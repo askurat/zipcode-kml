@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -164.2103,
+                    60.1537
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -164.298344,
+                            60.169489
+                        ],
+                        [
+                            -164.278678,
+                            60.169494
+                        ],
+                        [
+                            -164.231399,
+                            60.169495
+                        ],
+                        [
+                            -164.211604,
+                            60.16949
+                        ],
+                        [
+                            -164.211526,
+                            60.140601
+                        ],
+                        [
+                            -164.298343,
+                            60.1406
+                        ],
+                        [
+                            -164.298344,
+                            60.169489
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "99561",
+                "county-code": "050",
+                "state": "AK",
+                "city": "Chefornak"
+            }
+        }
+    ]
+}

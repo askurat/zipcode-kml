@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.8201,
+                    32.4181
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -106.95331,
+                            32.2516
+                        ],
+                        [
+                            -106.94948,
+                            32.25375
+                        ],
+                        [
+                            -106.944804,
+                            32.253402
+                        ],
+                        [
+                            -106.945113,
+                            32.247452
+                        ],
+                        [
+                            -106.952,
+                            32.246899
+                        ],
+                        [
+                            -106.9541,
+                            32.24879
+                        ],
+                        [
+                            -106.95331,
+                            32.2516
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "88004",
+                "county-code": "013",
+                "state": "NM",
+                "city": "Las Cruces"
+            }
+        }
+    ]
+}

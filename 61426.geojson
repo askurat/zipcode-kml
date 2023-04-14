@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.7071,
+                    41.1183
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.735129,
+                            41.126707
+                        ],
+                        [
+                            -89.735128,
+                            41.126838
+                        ],
+                        [
+                            -89.705904,
+                            41.126932
+                        ],
+                        [
+                            -89.676778,
+                            41.126931
+                        ],
+                        [
+                            -89.677015,
+                            41.112366
+                        ],
+                        [
+                            -89.706301,
+                            41.112382
+                        ],
+                        [
+                            -89.735147,
+                            41.112286
+                        ],
+                        [
+                            -89.735129,
+                            41.126707
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "61426",
+                "county-code": "175",
+                "state": "IL",
+                "city": "Castleton"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.5409,
+                    43.9966
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.439183,
+                            44.025638
+                        ],
+                        [
+                            -92.434058,
+                            44.025876
+                        ],
+                        [
+                            -92.433784,
+                            44.022563
+                        ],
+                        [
+                            -92.436473,
+                            44.022583
+                        ],
+                        [
+                            -92.436397,
+                            44.021602
+                        ],
+                        [
+                            -92.43874,
+                            44.02156
+                        ],
+                        [
+                            -92.4388,
+                            44.022753
+                        ],
+                        [
+                            -92.439183,
+                            44.025638
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "55903",
+                "county-code": "109",
+                "state": "MN",
+                "city": "Rochester"
+            }
+        }
+    ]
+}

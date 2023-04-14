@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.1309,
+                    47.1588
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.151884,
+                            47.173023
+                        ],
+                        [
+                            -96.152129,
+                            47.180457
+                        ],
+                        [
+                            -96.109397,
+                            47.180685
+                        ],
+                        [
+                            -96.109711,
+                            47.151669
+                        ],
+                        [
+                            -96.152263,
+                            47.151425
+                        ],
+                        [
+                            -96.151884,
+                            47.173023
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "56541",
+                "county-code": "107",
+                "state": "MN",
+                "city": "Flom"
+            }
+        }
+    ]
+}

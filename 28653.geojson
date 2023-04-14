@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9017,
+                    36.0651
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.901986,
+                            36.067537
+                        ],
+                        [
+                            -81.901399,
+                            36.06959
+                        ],
+                        [
+                            -81.900508,
+                            36.067191
+                        ],
+                        [
+                            -81.897759,
+                            36.065008
+                        ],
+                        [
+                            -81.901934,
+                            36.064479
+                        ],
+                        [
+                            -81.902302,
+                            36.063444
+                        ],
+                        [
+                            -81.901986,
+                            36.067537
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "28653",
+                "county-code": "011",
+                "state": "NC",
+                "city": "Montezuma"
+            }
+        }
+    ]
+}

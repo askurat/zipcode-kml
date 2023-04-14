@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.1274,
+                    31.2024
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.127225,
+                            31.202124
+                        ],
+                        [
+                            -93.125259,
+                            31.203075
+                        ],
+                        [
+                            -93.122671,
+                            31.2034
+                        ],
+                        [
+                            -93.121507,
+                            31.200794
+                        ],
+                        [
+                            -93.12665,
+                            31.198555
+                        ],
+                        [
+                            -93.127225,
+                            31.202124
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "71475",
+                "county-code": "115",
+                "state": "LA",
+                "city": "Slagle"
+            }
+        }
+    ]
+}

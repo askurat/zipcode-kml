@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.9776,
+                    44.9062
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -72.976565,
+                            44.905733
+                        ],
+                        [
+                            -72.975768,
+                            44.905115
+                        ],
+                        [
+                            -72.973081,
+                            44.90257
+                        ],
+                        [
+                            -72.977417,
+                            44.903812
+                        ],
+                        [
+                            -72.976565,
+                            44.905733
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "05485",
+                "county-code": "011",
+                "state": "VT",
+                "city": "Sheldon Springs"
+            }
+        }
+    ]
+}

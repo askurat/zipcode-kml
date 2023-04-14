@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1658,
+                    36.3133
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.027961,
+                            36.332218
+                        ],
+                        [
+                            -90.027954,
+                            36.333277
+                        ],
+                        [
+                            -90.024923,
+                            36.330589
+                        ],
+                        [
+                            -90.022021,
+                            36.330666
+                        ],
+                        [
+                            -90.023701,
+                            36.329052
+                        ],
+                        [
+                            -90.022895,
+                            36.328088
+                        ],
+                        [
+                            -90.02796,
+                            36.327894
+                        ],
+                        [
+                            -90.027961,
+                            36.332218
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "63880",
+                "county-code": "069",
+                "state": "MO",
+                "city": "Whiteoak"
+            }
+        }
+    ]
+}

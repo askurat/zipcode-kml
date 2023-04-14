@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.6862,
+                    28.3067
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.764435,
+                            28.446774
+                        ],
+                        [
+                            -80.763152,
+                            28.446772
+                        ],
+                        [
+                            -80.762964,
+                            28.446773
+                        ],
+                        [
+                            -80.762929,
+                            28.445778
+                        ],
+                        [
+                            -80.763011,
+                            28.443452
+                        ],
+                        [
+                            -80.763168,
+                            28.443454
+                        ],
+                        [
+                            -80.764457,
+                            28.443472
+                        ],
+                        [
+                            -80.764435,
+                            28.446774
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "32959",
+                "county-code": "009",
+                "state": "FL",
+                "city": "Sharpes"
+            }
+        }
+    ]
+}

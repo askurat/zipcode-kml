@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9745,
+                    42.5862
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -70.987314,
+                            42.588087
+                        ],
+                        [
+                            -70.985459,
+                            42.587846
+                        ],
+                        [
+                            -70.97993,
+                            42.585795
+                        ],
+                        [
+                            -70.979404,
+                            42.585116
+                        ],
+                        [
+                            -70.979434,
+                            42.585009
+                        ],
+                        [
+                            -70.983083,
+                            42.583804
+                        ],
+                        [
+                            -70.98732,
+                            42.584915
+                        ],
+                        [
+                            -70.987314,
+                            42.588087
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "01937",
+                "county-code": "009",
+                "state": "MA",
+                "city": "Hathorne"
+            }
+        }
+    ]
+}

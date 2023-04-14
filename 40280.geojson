@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6853,
+                    38.2467
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.689006,
+                            38.247361
+                        ],
+                        [
+                            -85.68858,
+                            38.249358
+                        ],
+                        [
+                            -85.685209,
+                            38.249983
+                        ],
+                        [
+                            -85.683187,
+                            38.247526
+                        ],
+                        [
+                            -85.687896,
+                            38.245369
+                        ],
+                        [
+                            -85.68867,
+                            38.245122
+                        ],
+                        [
+                            -85.691698,
+                            38.248289
+                        ],
+                        [
+                            -85.689006,
+                            38.247361
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "40280",
+                "county-code": "111",
+                "state": "KY",
+                "city": "Louisville"
+            }
+        }
+    ]
+}

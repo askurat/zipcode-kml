@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1694,
+                    41.5259
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.170811,
+                            41.527049
+                        ],
+                        [
+                            -86.168458,
+                            41.528051
+                        ],
+                        [
+                            -86.156935,
+                            41.527934
+                        ],
+                        [
+                            -86.156883,
+                            41.524743
+                        ],
+                        [
+                            -86.17025,
+                            41.524671
+                        ],
+                        [
+                            -86.170811,
+                            41.527049
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46595",
+                "county-code": "141",
+                "state": "IN",
+                "city": "Wyatt"
+            }
+        }
+    ]
+}

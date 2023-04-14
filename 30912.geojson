@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9881,
+                    33.4705
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.991208,
+                            33.471536
+                        ],
+                        [
+                            -81.990146,
+                            33.472604
+                        ],
+                        [
+                            -81.984431,
+                            33.470246
+                        ],
+                        [
+                            -81.984211,
+                            33.468507
+                        ],
+                        [
+                            -81.985608,
+                            33.467979
+                        ],
+                        [
+                            -81.991827,
+                            33.470261
+                        ],
+                        [
+                            -81.991208,
+                            33.471536
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "30912",
+                "county-code": "245",
+                "state": "GA",
+                "city": "Augusta"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.96,
+                    46.9788
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -98.688507,
+                            46.883352
+                        ],
+                        [
+                            -98.687371,
+                            46.88449
+                        ],
+                        [
+                            -98.686365,
+                            46.882379
+                        ],
+                        [
+                            -98.684773,
+                            46.881366
+                        ],
+                        [
+                            -98.687891,
+                            46.880289
+                        ],
+                        [
+                            -98.689659,
+                            46.880323
+                        ],
+                        [
+                            -98.688507,
+                            46.883352
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "58402",
+                "county-code": "093",
+                "state": "ND",
+                "city": "Jamestown"
+            }
+        }
+    ]
+}

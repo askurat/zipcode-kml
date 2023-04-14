@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1681,
+                    39.7206
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.166763,
+                            39.720135
+                        ],
+                        [
+                            -75.168689,
+                            39.72129
+                        ],
+                        [
+                            -75.166293,
+                            39.722482
+                        ],
+                        [
+                            -75.161369,
+                            39.721124
+                        ],
+                        [
+                            -75.156265,
+                            39.709513
+                        ],
+                        [
+                            -75.16641,
+                            39.704543
+                        ],
+                        [
+                            -75.170119,
+                            39.704704
+                        ],
+                        [
+                            -75.166763,
+                            39.720135
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "08074",
+                "county-code": "015",
+                "state": "NJ",
+                "city": "Richwood"
+            }
+        }
+    ]
+}

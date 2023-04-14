@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.147,
+                    34.2743
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.153638,
+                            34.284532
+                        ],
+                        [
+                            -83.152945,
+                            34.284359
+                        ],
+                        [
+                            -83.15243,
+                            34.284279
+                        ],
+                        [
+                            -83.150114,
+                            34.284103
+                        ],
+                        [
+                            -83.150017,
+                            34.282761
+                        ],
+                        [
+                            -83.15186,
+                            34.281337
+                        ],
+                        [
+                            -83.1545,
+                            34.281114
+                        ],
+                        [
+                            -83.153638,
+                            34.284532
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "30639",
+                "county-code": "119",
+                "state": "GA",
+                "city": "Franklin Springs"
+            }
+        }
+    ]
+}

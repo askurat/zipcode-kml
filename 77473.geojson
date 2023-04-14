@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.1014,
+                    29.8019
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.10517,
+                            29.79717
+                        ],
+                        [
+                            -96.10268,
+                            29.79662
+                        ],
+                        [
+                            -96.10011,
+                            29.79619
+                        ],
+                        [
+                            -96.10103,
+                            29.79316
+                        ],
+                        [
+                            -96.1041,
+                            29.79266
+                        ],
+                        [
+                            -96.10778,
+                            29.79213
+                        ],
+                        [
+                            -96.10517,
+                            29.79717
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "77473",
+                "county-code": "015",
+                "state": "TX",
+                "city": "San Felipe"
+            }
+        }
+    ]
+}

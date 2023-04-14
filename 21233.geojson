@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6205,
+                    39.2847
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.607041,
+                            39.292651
+                        ],
+                        [
+                            -76.604961,
+                            39.294258
+                        ],
+                        [
+                            -76.603811,
+                            39.293272
+                        ],
+                        [
+                            -76.603006,
+                            39.291641
+                        ],
+                        [
+                            -76.605762,
+                            39.290884
+                        ],
+                        [
+                            -76.607041,
+                            39.292651
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "21233",
+                "county-code": "510",
+                "state": "MD",
+                "city": "Baltimore"
+            }
+        }
+    ]
+}

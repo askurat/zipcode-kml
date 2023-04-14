@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0181,
+                    40.4187
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.04293,
+                            40.419991
+                        ],
+                        [
+                            -86.031916,
+                            40.420142
+                        ],
+                        [
+                            -86.032044,
+                            40.411657
+                        ],
+                        [
+                            -86.036144,
+                            40.40998
+                        ],
+                        [
+                            -86.041552,
+                            40.409904
+                        ],
+                        [
+                            -86.041552,
+                            40.419101
+                        ],
+                        [
+                            -86.04293,
+                            40.419991
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46937",
+                "county-code": "067",
+                "state": "IN",
+                "city": "Hemlock"
+            }
+        }
+    ]
+}

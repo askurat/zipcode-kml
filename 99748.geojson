@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -158.7243,
+                    64.3305
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -158.822687,
+                            64.364141
+                        ],
+                        [
+                            -158.693924,
+                            64.36413
+                        ],
+                        [
+                            -158.664385,
+                            64.364125
+                        ],
+                        [
+                            -158.664672,
+                            64.280389
+                        ],
+                        [
+                            -158.680599,
+                            64.280391
+                        ],
+                        [
+                            -158.822494,
+                            64.280406
+                        ],
+                        [
+                            -158.822687,
+                            64.364141
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "99748",
+                "county-code": "290",
+                "state": "AK",
+                "city": "Kaltag"
+            }
+        }
+    ]
+}

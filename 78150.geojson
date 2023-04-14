@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.958,
+                    29.3759
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -98.284287,
+                            29.538623
+                        ],
+                        [
+                            -98.280504,
+                            29.540524
+                        ],
+                        [
+                            -98.278648,
+                            29.537723
+                        ],
+                        [
+                            -98.280878,
+                            29.536146
+                        ],
+                        [
+                            -98.283423,
+                            29.536401
+                        ],
+                        [
+                            -98.284287,
+                            29.538623
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "78150",
+                "county-code": "029",
+                "state": "TX",
+                "city": "Jbsa Randolph"
+            }
+        }
+    ]
+}

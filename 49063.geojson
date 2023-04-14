@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1298,
+                    42.4136
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.148793,
+                            42.416087
+                        ],
+                        [
+                            -86.143641,
+                            42.416404
+                        ],
+                        [
+                            -86.133351,
+                            42.413955
+                        ],
+                        [
+                            -86.129396,
+                            42.414004
+                        ],
+                        [
+                            -86.129481,
+                            42.404347
+                        ],
+                        [
+                            -86.148849,
+                            42.404257
+                        ],
+                        [
+                            -86.148793,
+                            42.416087
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "49063",
+                "county-code": "159",
+                "state": "MI",
+                "city": "Lacota"
+            }
+        }
+    ]
+}

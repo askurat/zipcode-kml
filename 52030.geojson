@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.5924,
+                    42.1536
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.596703,
+                            42.153232
+                        ],
+                        [
+                            -90.596563,
+                            42.156944
+                        ],
+                        [
+                            -90.594706,
+                            42.156975
+                        ],
+                        [
+                            -90.589087,
+                            42.156875
+                        ],
+                        [
+                            -90.58737,
+                            42.156857
+                        ],
+                        [
+                            -90.587581,
+                            42.149642
+                        ],
+                        [
+                            -90.597475,
+                            42.149579
+                        ],
+                        [
+                            -90.596703,
+                            42.153232
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "52030",
+                "county-code": "097",
+                "state": "IA",
+                "city": "Andrew"
+            }
+        }
+    ]
+}

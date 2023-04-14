@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4303,
+                    38.5508
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.446155,
+                            38.56557
+                        ],
+                        [
+                            -97.427387,
+                            38.565581
+                        ],
+                        [
+                            -97.427389,
+                            38.55107
+                        ],
+                        [
+                            -97.408827,
+                            38.551166
+                        ],
+                        [
+                            -97.40884,
+                            38.536581
+                        ],
+                        [
+                            -97.441886,
+                            38.536404
+                        ],
+                        [
+                            -97.445802,
+                            38.537292
+                        ],
+                        [
+                            -97.446155,
+                            38.56557
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "67476",
+                "county-code": "113",
+                "state": "KS",
+                "city": "Roxbury"
+            }
+        }
+    ]
+}

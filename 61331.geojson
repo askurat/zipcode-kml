@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2827,
+                    41.7488
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.281056,
+                            41.749634
+                        ],
+                        [
+                            -89.275551,
+                            41.747309
+                        ],
+                        [
+                            -89.273743,
+                            41.747189
+                        ],
+                        [
+                            -89.273781,
+                            41.746145
+                        ],
+                        [
+                            -89.275592,
+                            41.74629
+                        ],
+                        [
+                            -89.28164,
+                            41.748867
+                        ],
+                        [
+                            -89.281056,
+                            41.749634
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "61331",
+                "county-code": "103",
+                "state": "IL",
+                "city": "Lee Center"
+            }
+        }
+    ]
+}

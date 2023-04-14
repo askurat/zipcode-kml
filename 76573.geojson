@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5142,
+                    30.8155
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.51349,
+                            30.817075
+                        ],
+                        [
+                            -97.51058,
+                            30.826548
+                        ],
+                        [
+                            -97.513067,
+                            30.827711
+                        ],
+                        [
+                            -97.483262,
+                            30.816379
+                        ],
+                        [
+                            -97.505139,
+                            30.813001
+                        ],
+                        [
+                            -97.514125,
+                            30.815455
+                        ],
+                        [
+                            -97.51349,
+                            30.817075
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "76573",
+                "county-code": "491",
+                "state": "TX",
+                "city": "Schwertner"
+            }
+        }
+    ]
+}

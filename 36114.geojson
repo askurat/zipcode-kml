@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2539,
+                    32.404
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.246454,
+                            32.404493
+                        ],
+                        [
+                            -86.246489,
+                            32.406702
+                        ],
+                        [
+                            -86.24455,
+                            32.406715
+                        ],
+                        [
+                            -86.244683,
+                            32.403486
+                        ],
+                        [
+                            -86.244794,
+                            32.402712
+                        ],
+                        [
+                            -86.248157,
+                            32.404325
+                        ],
+                        [
+                            -86.246454,
+                            32.404493
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "36114",
+                "county-code": "101",
+                "state": "AL",
+                "city": "Montgomery"
+            }
+        }
+    ]
+}

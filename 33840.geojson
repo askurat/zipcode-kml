@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9076,
+                    28.0086
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.907749,
+                            28.011374
+                        ],
+                        [
+                            -81.905683,
+                            28.011395
+                        ],
+                        [
+                            -81.905671,
+                            28.009564
+                        ],
+                        [
+                            -81.901581,
+                            28.009597
+                        ],
+                        [
+                            -81.901625,
+                            28.007743
+                        ],
+                        [
+                            -81.906445,
+                            28.007703
+                        ],
+                        [
+                            -81.907722,
+                            28.008863
+                        ],
+                        [
+                            -81.907749,
+                            28.011374
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "33840",
+                "county-code": "105",
+                "state": "FL",
+                "city": "Eaton Park"
+            }
+        }
+    ]
+}

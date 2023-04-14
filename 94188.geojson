@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4194,
+                    37.7749
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.383941,
+                            37.741901
+                        ],
+                        [
+                            -122.383079,
+                            37.743932
+                        ],
+                        [
+                            -122.376847,
+                            37.740192
+                        ],
+                        [
+                            -122.37911,
+                            37.73768
+                        ],
+                        [
+                            -122.380887,
+                            37.738828
+                        ],
+                        [
+                            -122.38099,
+                            37.73872
+                        ],
+                        [
+                            -122.384748,
+                            37.74085
+                        ],
+                        [
+                            -122.383941,
+                            37.741901
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "94188",
+                "county-code": "075",
+                "state": "CA",
+                "city": "San Francisco"
+            }
+        }
+    ]
+}

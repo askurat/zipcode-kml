@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2055,
+                    41.4435
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -80.208039,
+                            41.445312
+                        ],
+                        [
+                            -80.206151,
+                            41.445608
+                        ],
+                        [
+                            -80.206743,
+                            41.443861
+                        ],
+                        [
+                            -80.204422,
+                            41.444216
+                        ],
+                        [
+                            -80.201998,
+                            41.443906
+                        ],
+                        [
+                            -80.203313,
+                            41.440462
+                        ],
+                        [
+                            -80.208776,
+                            41.441577
+                        ],
+                        [
+                            -80.208039,
+                            41.445312
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "16151",
+                "county-code": "085",
+                "state": "PA",
+                "city": "Sheakleyville"
+            }
+        }
+    ]
+}

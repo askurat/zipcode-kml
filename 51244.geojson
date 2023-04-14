@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9353,
+                    43.2439
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.94176,
+                            43.248096
+                        ],
+                        [
+                            -95.926797,
+                            43.247768
+                        ],
+                        [
+                            -95.926896,
+                            43.240881
+                        ],
+                        [
+                            -95.926903,
+                            43.240582
+                        ],
+                        [
+                            -95.941862,
+                            43.240742
+                        ],
+                        [
+                            -95.94176,
+                            43.248096
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "51244",
+                "county-code": "167",
+                "state": "IA",
+                "city": "Matlock"
+            }
+        }
+    ]
+}

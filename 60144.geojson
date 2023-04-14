@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.522,
+                    41.8353
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -88.521096,
+                            41.837462
+                        ],
+                        [
+                            -88.519094,
+                            41.835963
+                        ],
+                        [
+                            -88.517747,
+                            41.836391
+                        ],
+                        [
+                            -88.517753,
+                            41.83304
+                        ],
+                        [
+                            -88.517744,
+                            41.831988
+                        ],
+                        [
+                            -88.523114,
+                            41.836003
+                        ],
+                        [
+                            -88.521096,
+                            41.837462
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "60144",
+                "county-code": "089",
+                "state": "IL",
+                "city": "Kaneville"
+            }
+        }
+    ]
+}

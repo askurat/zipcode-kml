@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.7599,
+                    39.179
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -74.770584,
+                            39.181478
+                        ],
+                        [
+                            -74.769178,
+                            39.186283
+                        ],
+                        [
+                            -74.765816,
+                            39.18562
+                        ],
+                        [
+                            -74.760021,
+                            39.185284
+                        ],
+                        [
+                            -74.761973,
+                            39.177776
+                        ],
+                        [
+                            -74.768608,
+                            39.17434
+                        ],
+                        [
+                            -74.770315,
+                            39.178722
+                        ],
+                        [
+                            -74.770584,
+                            39.181478
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "08246",
+                "county-code": "009",
+                "state": "NJ",
+                "city": "South Seaville"
+            }
+        }
+    ]
+}

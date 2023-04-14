@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.8371,
+                    41.9387
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.825248,
+                            41.972328
+                        ],
+                        [
+                            -93.815578,
+                            41.972333
+                        ],
+                        [
+                            -93.810063,
+                            41.972339
+                        ],
+                        [
+                            -93.810012,
+                            41.965137
+                        ],
+                        [
+                            -93.815644,
+                            41.965137
+                        ],
+                        [
+                            -93.82527,
+                            41.965144
+                        ],
+                        [
+                            -93.825248,
+                            41.972328
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "50152",
+                "county-code": "015",
+                "state": "IA",
+                "city": "Luther"
+            }
+        }
+    ]
+}

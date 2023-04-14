@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.374,
+                    32.2733
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -101.528072,
+                            32.227595
+                        ],
+                        [
+                            -101.526285,
+                            32.226412
+                        ],
+                        [
+                            -101.526074,
+                            32.226103
+                        ],
+                        [
+                            -101.52622,
+                            32.223084
+                        ],
+                        [
+                            -101.528757,
+                            32.222855
+                        ],
+                        [
+                            -101.528072,
+                            32.227595
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "79721",
+                "county-code": "227",
+                "state": "TX",
+                "city": "Big Spring"
+            }
+        }
+    ]
+}

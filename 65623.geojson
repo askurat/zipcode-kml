@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.9064,
+                    36.749
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.908472,
+                            36.749917
+                        ],
+                        [
+                            -93.905488,
+                            36.749876
+                        ],
+                        [
+                            -93.905176,
+                            36.747803
+                        ],
+                        [
+                            -93.907517,
+                            36.747807
+                        ],
+                        [
+                            -93.907619,
+                            36.748803
+                        ],
+                        [
+                            -93.908472,
+                            36.749917
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "65623",
+                "county-code": "009",
+                "state": "MO",
+                "city": "Butterfield"
+            }
+        }
+    ]
+}

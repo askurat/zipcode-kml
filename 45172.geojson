@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.3853,
+                    39.0738
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.393831,
+                            39.078083
+                        ],
+                        [
+                            -83.388162,
+                            39.078677
+                        ],
+                        [
+                            -83.388749,
+                            39.079579
+                        ],
+                        [
+                            -83.379805,
+                            39.079534
+                        ],
+                        [
+                            -83.382297,
+                            39.069151
+                        ],
+                        [
+                            -83.392503,
+                            39.069447
+                        ],
+                        [
+                            -83.393831,
+                            39.078083
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45172",
+                "county-code": "071",
+                "state": "OH",
+                "city": "Sinking Spring"
+            }
+        }
+    ]
+}

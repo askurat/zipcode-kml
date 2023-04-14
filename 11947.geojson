@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.5815,
+                    40.9495
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -72.584819,
+                            40.943657
+                        ],
+                        [
+                            -72.581206,
+                            40.944063
+                        ],
+                        [
+                            -72.579747,
+                            40.944468
+                        ],
+                        [
+                            -72.579284,
+                            40.943037
+                        ],
+                        [
+                            -72.582711,
+                            40.941245
+                        ],
+                        [
+                            -72.584819,
+                            40.943657
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "11947",
+                "county-code": "103",
+                "state": "NY",
+                "city": "Jamesport"
+            }
+        }
+    ]
+}

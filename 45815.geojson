@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.9413,
+                    41.1539
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.946959,
+                            41.160371
+                        ],
+                        [
+                            -83.938412,
+                            41.160443
+                        ],
+                        [
+                            -83.938422,
+                            41.154419
+                        ],
+                        [
+                            -83.937247,
+                            41.153032
+                        ],
+                        [
+                            -83.944206,
+                            41.154575
+                        ],
+                        [
+                            -83.944668,
+                            41.153097
+                        ],
+                        [
+                            -83.946958,
+                            41.153099
+                        ],
+                        [
+                            -83.946959,
+                            41.160371
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "45815",
+                "county-code": "137",
+                "state": "OH",
+                "city": "Belmore"
+            }
+        }
+    ]
+}

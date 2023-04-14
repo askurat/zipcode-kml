@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4906,
+                    41.9765
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -72.490612,
+                            41.985019
+                        ],
+                        [
+                            -72.484144,
+                            41.986111
+                        ],
+                        [
+                            -72.487108,
+                            41.983627
+                        ],
+                        [
+                            -72.488116,
+                            41.982726
+                        ],
+                        [
+                            -72.488171,
+                            41.982952
+                        ],
+                        [
+                            -72.490612,
+                            41.985019
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "06072",
+                "county-code": "013",
+                "state": "CT",
+                "city": "Somersville"
+            }
+        }
+    ]
+}

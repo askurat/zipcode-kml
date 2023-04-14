@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.5457,
+                    39.013
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -86.546344,
+                            39.013476
+                        ],
+                        [
+                            -86.545262,
+                            39.013485
+                        ],
+                        [
+                            -86.544972,
+                            39.013516
+                        ],
+                        [
+                            -86.544996,
+                            39.013285
+                        ],
+                        [
+                            -86.54503,
+                            39.012047
+                        ],
+                        [
+                            -86.546409,
+                            39.012062
+                        ],
+                        [
+                            -86.546344,
+                            39.013476
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47434",
+                "county-code": "105",
+                "state": "IN",
+                "city": "Harrodsburg"
+            }
+        }
+    ]
+}

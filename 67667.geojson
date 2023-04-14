@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.3322,
+                    38.7128
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -99.336908,
+                            38.715029
+                        ],
+                        [
+                            -99.331741,
+                            38.715509
+                        ],
+                        [
+                            -99.328623,
+                            38.714705
+                        ],
+                        [
+                            -99.329333,
+                            38.710338
+                        ],
+                        [
+                            -99.333,
+                            38.710011
+                        ],
+                        [
+                            -99.333047,
+                            38.711514
+                        ],
+                        [
+                            -99.336177,
+                            38.711588
+                        ],
+                        [
+                            -99.336908,
+                            38.715029
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "67667",
+                "county-code": "051",
+                "state": "KS",
+                "city": "Schoenchen"
+            }
+        }
+    ]
+}

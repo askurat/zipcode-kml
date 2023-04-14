@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2668,
+                    43.6853
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.266131,
+                            43.684664
+                        ],
+                        [
+                            -90.264837,
+                            43.685781
+                        ],
+                        [
+                            -90.263581,
+                            43.685793
+                        ],
+                        [
+                            -90.26476,
+                            43.683568
+                        ],
+                        [
+                            -90.26466,
+                            43.681172
+                        ],
+                        [
+                            -90.266076,
+                            43.680999
+                        ],
+                        [
+                            -90.266131,
+                            43.684664
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "53962",
+                "county-code": "057",
+                "state": "WI",
+                "city": "Union Center"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.3616,
+                    38.8557
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -77.364042,
+                            38.858051
+                        ],
+                        [
+                            -77.36298,
+                            38.858562
+                        ],
+                        [
+                            -77.360709,
+                            38.857297
+                        ],
+                        [
+                            -77.361337,
+                            38.854228
+                        ],
+                        [
+                            -77.362569,
+                            38.85422
+                        ],
+                        [
+                            -77.364717,
+                            38.855154
+                        ],
+                        [
+                            -77.364042,
+                            38.858051
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "22035",
+                "county-code": "059",
+                "state": "VA",
+                "city": "Fairfax"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1945,
+                    35.3896
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.195916,
+                            35.389887
+                        ],
+                        [
+                            -79.196003,
+                            35.39176
+                        ],
+                        [
+                            -79.194326,
+                            35.391675
+                        ],
+                        [
+                            -79.194293,
+                            35.389346
+                        ],
+                        [
+                            -79.19606,
+                            35.38934
+                        ],
+                        [
+                            -79.195916,
+                            35.389887
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "28355",
+                "county-code": "105",
+                "state": "NC",
+                "city": "Lemon Springs"
+            }
+        }
+    ]
+}

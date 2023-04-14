@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8389,
+                    31.8354
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.896027,
+                            31.791887
+                        ],
+                        [
+                            -95.890177,
+                            31.791878
+                        ],
+                        [
+                            -95.890197,
+                            31.788884
+                        ],
+                        [
+                            -95.887986,
+                            31.788855
+                        ],
+                        [
+                            -95.887986,
+                            31.787067
+                        ],
+                        [
+                            -95.896077,
+                            31.787027
+                        ],
+                        [
+                            -95.896027,
+                            31.791887
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "75884",
+                "county-code": "001",
+                "state": "TX",
+                "city": "Tennessee Colony"
+            }
+        }
+    ]
+}

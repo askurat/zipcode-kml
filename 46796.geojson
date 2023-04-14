@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5002,
+                    41.3361
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.496695,
+                            41.33688
+                        ],
+                        [
+                            -85.49509,
+                            41.338288
+                        ],
+                        [
+                            -85.493958,
+                            41.338029
+                        ],
+                        [
+                            -85.495643,
+                            41.334975
+                        ],
+                        [
+                            -85.498429,
+                            41.336777
+                        ],
+                        [
+                            -85.496695,
+                            41.33688
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46796",
+                "county-code": "113",
+                "state": "IN",
+                "city": "Wolflake"
+            }
+        }
+    ]
+}

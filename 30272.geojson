@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5163,
+                    33.6259
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.504585,
+                            33.624324
+                        ],
+                        [
+                            -84.498701,
+                            33.624279
+                        ],
+                        [
+                            -84.498634,
+                            33.62226
+                        ],
+                        [
+                            -84.504581,
+                            33.621701
+                        ],
+                        [
+                            -84.504585,
+                            33.624324
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "30272",
+                "county-code": "121",
+                "state": "GA",
+                "city": "Red Oak"
+            }
+        }
+    ]
+}

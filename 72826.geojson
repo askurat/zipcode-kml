@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.7116,
+                    35.1304
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -93.714094,
+                            35.131759
+                        ],
+                        [
+                            -93.712448,
+                            35.130901
+                        ],
+                        [
+                            -93.706901,
+                            35.130963
+                        ],
+                        [
+                            -93.70694,
+                            35.128928
+                        ],
+                        [
+                            -93.713727,
+                            35.129083
+                        ],
+                        [
+                            -93.713242,
+                            35.130331
+                        ],
+                        [
+                            -93.714094,
+                            35.131759
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "72826",
+                "county-code": "083",
+                "state": "AR",
+                "city": "Blue Mountain"
+            }
+        }
+    ]
+}

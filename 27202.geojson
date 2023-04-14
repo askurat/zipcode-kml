@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5055,
+                    36.1855
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -79.507255,
+                            36.186362
+                        ],
+                        [
+                            -79.504313,
+                            36.186505
+                        ],
+                        [
+                            -79.504217,
+                            36.18535
+                        ],
+                        [
+                            -79.506024,
+                            36.185006
+                        ],
+                        [
+                            -79.507394,
+                            36.18427
+                        ],
+                        [
+                            -79.507255,
+                            36.186362
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "27202",
+                "county-code": "001",
+                "state": "NC",
+                "city": "Altamahaw"
+            }
+        }
+    ]
+}

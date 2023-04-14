@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.2765,
+                    29.3509
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.259078,
+                            29.366582
+                        ],
+                        [
+                            -82.252672,
+                            29.3669
+                        ],
+                        [
+                            -82.251369,
+                            29.367419
+                        ],
+                        [
+                            -82.251418,
+                            29.360964
+                        ],
+                        [
+                            -82.255547,
+                            29.362645
+                        ],
+                        [
+                            -82.259078,
+                            29.366582
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "32634",
+                "county-code": "083",
+                "state": "FL",
+                "city": "Fairfield"
+            }
+        }
+    ]
+}

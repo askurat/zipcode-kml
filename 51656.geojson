@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.1562,
+                    40.7374
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.159095,
+                            40.738905
+                        ],
+                        [
+                            -95.15659,
+                            40.738921
+                        ],
+                        [
+                            -95.148476,
+                            40.738923
+                        ],
+                        [
+                            -95.148428,
+                            40.73443
+                        ],
+                        [
+                            -95.154807,
+                            40.73129
+                        ],
+                        [
+                            -95.156634,
+                            40.730602
+                        ],
+                        [
+                            -95.158999,
+                            40.729483
+                        ],
+                        [
+                            -95.159095,
+                            40.738905
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "51656",
+                "county-code": "145",
+                "state": "IA",
+                "city": "Yorktown"
+            }
+        }
+    ]
+}

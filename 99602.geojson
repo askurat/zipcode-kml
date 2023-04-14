@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -159.8251,
+                    62.1926
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -159.89987,
+                            62.235316
+                        ],
+                        [
+                            -159.760676,
+                            62.226997
+                        ],
+                        [
+                            -159.715701,
+                            62.224281
+                        ],
+                        [
+                            -159.721237,
+                            62.204782
+                        ],
+                        [
+                            -159.740138,
+                            62.138117
+                        ],
+                        [
+                            -159.923718,
+                            62.149396
+                        ],
+                        [
+                            -159.89987,
+                            62.235316
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "99602",
+                "county-code": "290",
+                "state": "AK",
+                "city": "Holy Cross"
+            }
+        }
+    ]
+}

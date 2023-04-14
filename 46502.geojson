@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.9697,
+                    41.254
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -85.978358,
+                            41.261824
+                        ],
+                        [
+                            -85.975328,
+                            41.260833
+                        ],
+                        [
+                            -85.976805,
+                            41.260088
+                        ],
+                        [
+                            -85.976821,
+                            41.260803
+                        ],
+                        [
+                            -85.978054,
+                            41.2608
+                        ],
+                        [
+                            -85.978358,
+                            41.261824
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "46502",
+                "county-code": "085",
+                "state": "IN",
+                "city": "Atwood"
+            }
+        }
+    ]
+}

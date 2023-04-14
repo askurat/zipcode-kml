@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2793,
+                    41.3258
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.298134,
+                            41.325436
+                        ],
+                        [
+                            -84.291652,
+                            41.328966
+                        ],
+                        [
+                            -84.28508,
+                            41.331885
+                        ],
+                        [
+                            -84.285079,
+                            41.325925
+                        ],
+                        [
+                            -84.295349,
+                            41.325928
+                        ],
+                        [
+                            -84.298134,
+                            41.325436
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "43530",
+                "county-code": "039",
+                "state": "OH",
+                "city": "Jewell"
+            }
+        }
+    ]
+}

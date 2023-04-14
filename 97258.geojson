@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6762,
+                    45.5235
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -122.675791,
+                            45.513729
+                        ],
+                        [
+                            -122.674718,
+                            45.513424
+                        ],
+                        [
+                            -122.675099,
+                            45.512797
+                        ],
+                        [
+                            -122.675791,
+                            45.513729
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "97258",
+                "county-code": "051",
+                "state": "OR",
+                "city": "Portland"
+            }
+        }
+    ]
+}

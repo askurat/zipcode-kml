@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.3341,
+                    38.9517
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -92.32823,
+                            38.95763
+                        ],
+                        [
+                            -92.32665,
+                            38.96018
+                        ],
+                        [
+                            -92.32481,
+                            38.96005
+                        ],
+                        [
+                            -92.32488,
+                            38.95642
+                        ],
+                        [
+                            -92.32826,
+                            38.95675
+                        ],
+                        [
+                            -92.32823,
+                            38.95763
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "65216",
+                "county-code": "019",
+                "state": "MO",
+                "city": "Columbia"
+            }
+        }
+    ]
+}

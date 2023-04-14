@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3922,
+                    33.378
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -97.400247,
+                            33.383679
+                        ],
+                        [
+                            -97.385571,
+                            33.371189
+                        ],
+                        [
+                            -97.386073,
+                            33.35366
+                        ],
+                        [
+                            -97.388751,
+                            33.35591
+                        ],
+                        [
+                            -97.394147,
+                            33.357038
+                        ],
+                        [
+                            -97.395847,
+                            33.357819
+                        ],
+                        [
+                            -97.413448,
+                            33.373103
+                        ],
+                        [
+                            -97.400247,
+                            33.383679
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "76267",
+                "county-code": "497",
+                "state": "TX",
+                "city": "Slidell"
+            }
+        }
+    ]
+}

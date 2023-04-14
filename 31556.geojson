@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.1155,
+                    31.4126
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -82.119692,
+                            31.403422
+                        ],
+                        [
+                            -82.112591,
+                            31.408956
+                        ],
+                        [
+                            -82.110468,
+                            31.407322
+                        ],
+                        [
+                            -82.111959,
+                            31.405839
+                        ],
+                        [
+                            -82.118075,
+                            31.400972
+                        ],
+                        [
+                            -82.119692,
+                            31.403422
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "31556",
+                "county-code": "229",
+                "state": "GA",
+                "city": "Offerman"
+            }
+        }
+    ]
+}

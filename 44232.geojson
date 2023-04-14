@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.462,
+                    40.9325
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -81.465079,
+                            40.932326
+                        ],
+                        [
+                            -81.464895,
+                            40.933542
+                        ],
+                        [
+                            -81.462019,
+                            40.933453
+                        ],
+                        [
+                            -81.462084,
+                            40.931535
+                        ],
+                        [
+                            -81.46354,
+                            40.931607
+                        ],
+                        [
+                            -81.464082,
+                            40.93162
+                        ],
+                        [
+                            -81.465073,
+                            40.931593
+                        ],
+                        [
+                            -81.465079,
+                            40.932326
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "44232",
+                "county-code": "153",
+                "state": "OH",
+                "city": "Green"
+            }
+        }
+    ]
+}

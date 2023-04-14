@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.8519,
+                    39.7412
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.85576,
+                            39.744828
+                        ],
+                        [
+                            -84.847498,
+                            39.744839
+                        ],
+                        [
+                            -84.847685,
+                            39.737619
+                        ],
+                        [
+                            -84.85587,
+                            39.737454
+                        ],
+                        [
+                            -84.85576,
+                            39.744828
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "47324",
+                "county-code": "177",
+                "state": "IN",
+                "city": "Boston"
+            }
+        }
+    ]
+}

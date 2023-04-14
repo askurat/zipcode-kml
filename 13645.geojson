@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4463,
+                    44.3101
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.446814,
+                            44.309882
+                        ],
+                        [
+                            -75.446506,
+                            44.310062
+                        ],
+                        [
+                            -75.445027,
+                            44.308391
+                        ],
+                        [
+                            -75.446695,
+                            44.307609
+                        ],
+                        [
+                            -75.448019,
+                            44.308966
+                        ],
+                        [
+                            -75.446814,
+                            44.309882
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "13645",
+                "county-code": "089",
+                "state": "NY",
+                "city": "Hailesboro"
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8022,
+                    35.1449
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.808774,
+                            35.145365
+                        ],
+                        [
+                            -76.806416,
+                            35.145247
+                        ],
+                        [
+                            -76.80637,
+                            35.146142
+                        ],
+                        [
+                            -76.805007,
+                            35.146105
+                        ],
+                        [
+                            -76.804978,
+                            35.145098
+                        ],
+                        [
+                            -76.808168,
+                            35.144364
+                        ],
+                        [
+                            -76.808774,
+                            35.145365
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "28509",
+                "county-code": "137",
+                "state": "NC",
+                "city": "Alliance"
+            }
+        }
+    ]
+}

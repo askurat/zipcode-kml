@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -162.0323,
+                    60.2151
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -162.054644,
+                            60.220056
+                        ],
+                        [
+                            -162.011589,
+                            60.220055
+                        ],
+                        [
+                            -162.011557,
+                            60.212833
+                        ],
+                        [
+                            -162.012413,
+                            60.212833
+                        ],
+                        [
+                            -162.05464,
+                            60.212833
+                        ],
+                        [
+                            -162.054644,
+                            60.220056
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "99578",
+                "county-code": "050",
+                "state": "AK",
+                "city": "Eek"
+            }
+        }
+    ]
+}

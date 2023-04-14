@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3136,
+                    33.4429
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -84.30794,
+                            33.435528
+                        ],
+                        [
+                            -84.304323,
+                            33.435727
+                        ],
+                        [
+                            -84.304311,
+                            33.435552
+                        ],
+                        [
+                            -84.30431,
+                            33.43363
+                        ],
+                        [
+                            -84.308004,
+                            33.434074
+                        ],
+                        [
+                            -84.30794,
+                            33.435528
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "30250",
+                "county-code": "063",
+                "state": "GA",
+                "city": "Lovejoy"
+            }
+        }
+    ]
+}

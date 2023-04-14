@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6861,
+                    42.4435
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -71.689723,
+                            42.447608
+                        ],
+                        [
+                            -71.689028,
+                            42.447465
+                        ],
+                        [
+                            -71.685979,
+                            42.446696
+                        ],
+                        [
+                            -71.687632,
+                            42.443866
+                        ],
+                        [
+                            -71.690654,
+                            42.444927
+                        ],
+                        [
+                            -71.689723,
+                            42.447608
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "01561",
+                "county-code": "027",
+                "state": "MA",
+                "city": "South Lancaster"
+            }
+        }
+    ]
+}

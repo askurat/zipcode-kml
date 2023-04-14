@@ -1,0 +1,52 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.244,
+                    43.4599
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -116.200541,
+                            43.618686
+                        ],
+                        [
+                            -116.198187,
+                            43.617493
+                        ],
+                        [
+                            -116.198922,
+                            43.616728
+                        ],
+                        [
+                            -116.201275,
+                            43.617921
+                        ],
+                        [
+                            -116.200541,
+                            43.618686
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "83720",
+                "county-code": "001",
+                "state": "ID",
+                "city": "Boise"
+            }
+        }
+    ]
+}

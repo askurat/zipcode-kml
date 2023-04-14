@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1126,
+                    30.5269
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -90.115304,
+                            30.52894
+                        ],
+                        [
+                            -90.111724,
+                            30.528909
+                        ],
+                        [
+                            -90.111015,
+                            30.528047
+                        ],
+                        [
+                            -90.111335,
+                            30.526439
+                        ],
+                        [
+                            -90.112831,
+                            30.525829
+                        ],
+                        [
+                            -90.115231,
+                            30.525831
+                        ],
+                        [
+                            -90.115304,
+                            30.52894
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "70457",
+                "county-code": "103",
+                "state": "LA",
+                "city": "Saint Benedict"
+            }
+        }
+    ]
+}

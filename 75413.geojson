@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.1662,
+                    33.43
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -96.168494,
+                            33.440314
+                        ],
+                        [
+                            -96.163167,
+                            33.440004
+                        ],
+                        [
+                            -96.160789,
+                            33.439868
+                        ],
+                        [
+                            -96.161441,
+                            33.430686
+                        ],
+                        [
+                            -96.165783,
+                            33.43207
+                        ],
+                        [
+                            -96.168986,
+                            33.433113
+                        ],
+                        [
+                            -96.168494,
+                            33.440314
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "75413",
+                "county-code": "147",
+                "state": "TX",
+                "city": "Bailey"
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.656,
+                    42.8545
+                ]
+            },
+            "properties": {}
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -75.657084,
+                            42.855079
+                        ],
+                        [
+                            -75.656031,
+                            42.855762
+                        ],
+                        [
+                            -75.653492,
+                            42.855171
+                        ],
+                        [
+                            -75.653259,
+                            42.85396
+                        ],
+                        [
+                            -75.654708,
+                            42.854314
+                        ],
+                        [
+                            -75.654886,
+                            42.852551
+                        ],
+                        [
+                            -75.656865,
+                            42.852794
+                        ],
+                        [
+                            -75.657084,
+                            42.855079
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "postal-code": "13484",
+                "county-code": "053",
+                "state": "NY",
+                "city": "West Eaton"
+            }
+        }
+    ]
+}
